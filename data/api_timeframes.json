@@ -1,0 +1,84 @@
+{
+    "count": 5,
+    "page": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 96685,
+            "uuid": "9f11aeb6050b4024b2e2cac63dc52691",
+            "start_time": "2024-09-07T12:00:00Z",
+            "end_time": "2024-09-07T14:00:00Z",
+            "params": {
+                "minRad": {
+                    "DH": 70,
+                    "GS": 50,
+                    "SG": 60,
+                    "SL": 30
+                }
+            },
+            "device": 14037,
+            "activity": 17029,
+            "athlete": 3499,
+            "owner": 21,
+            "json_schema": 17
+        },
+        {
+            "id": 96687,
+            "uuid": "436f7f29be664046bb0cbbd47bd20d38",
+            "start_time": "2024-09-07T12:00:00Z",
+            "end_time": "2024-09-07T14:00:00Z",
+            "params": {
+                "minRad": {
+                    "DH": 70,
+                    "GS": 50,
+                    "SG": 60,
+                    "SL": 30
+                }
+            },
+            "device": 14042,
+            "activity": 17029,
+            "athlete": 2585,
+            "owner": 21,
+            "json_schema": 17
+        },
+        {
+            "id": 96688,
+            "uuid": "2ff9929d1a424154b3d4b1d15c13d789",
+            "start_time": "2024-09-07T12:00:00Z",
+            "end_time": "2024-09-07T14:00:00Z",
+            "params": {
+                "minRad": {
+                    "DH": 70,
+                    "GS": 50,
+                    "SG": 60,
+                    "SL": 30
+                }
+            },
+            "device": 14043,
+            "activity": 17029,
+            "athlete": 2591,
+            "owner": 21,
+            "json_schema": 17
+        },
+        {
+            "id": 96689,
+            "uuid": "f6c69c7bb00042668b67c545b74742d2",
+            "start_time": "2024-09-07T12:00:00Z",
+            "end_time": "2024-09-07T14:00:00Z",
+            "params": {
+                "minRad": {
+                    "DH": 70,
+                    "GS": 50,
+                    "SG": 60,
+                    "SL": 30
+                }
+            },
+            "device": 14044,
+            "activity": 17029,
+            "athlete": 2588,
+            "owner": 21,
+            "json_schema": 17
+        }
+    ]
+}

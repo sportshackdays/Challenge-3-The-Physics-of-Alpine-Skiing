@@ -1,0 +1,122 @@
+{
+    "first_timestamp": 1725710490100,
+    "last_computation": 1725728119568,
+    "last_timestamp": 1725715663000,
+    "runs": [
+        {
+            "run_number": 1,
+            "start_time": 1725711789331,
+            "finish_time": 1725711999239,
+            "segments": [
+                {
+                    "name": "Start Line",
+                    "time": 0,
+                    "duration": 0,
+                    "speed": 2.8809462734664106,
+                    "segment_slope_distance": 0,
+                    "total_slope_distance": 0
+                },
+                {
+                    "name": "Finish Line",
+                    "time": 209.908,
+                    "duration": 209.908,
+                    "speed": 2.535337385714177,
+                    "segment_slope_distance": 458.27267679991223,
+                    "total_slope_distance": 458.2754333001548
+                }
+            ]
+        },
+        {
+            "run_number": 2,
+            "start_time": 1725712650546,
+            "finish_time": 1725712684459,
+            "segments": [
+                {
+                    "name": "Start Line",
+                    "time": 0,
+                    "duration": 0,
+                    "speed": 8.592177478171642,
+                    "segment_slope_distance": 0,
+                    "total_slope_distance": 0
+                },
+                {
+                    "name": "Finish Line",
+                    "time": 33.913,
+                    "duration": 33.913,
+                    "speed": 15.088092555846814,
+                    "segment_slope_distance": 424.82432697255797,
+                    "total_slope_distance": 424.8330672859685
+                }
+            ]
+        },
+        {
+            "run_number": 3,
+            "start_time": 1725713592142,
+            "finish_time": 1725713626113,
+            "segments": [
+                {
+                    "name": "Start Line",
+                    "time": 0,
+                    "duration": 0,
+                    "speed": 8.722819656968726,
+                    "segment_slope_distance": 0,
+                    "total_slope_distance": 0
+                },
+                {
+                    "name": "Finish Line",
+                    "time": 33.971,
+                    "duration": 33.971,
+                    "speed": 15.267050588830182,
+                    "segment_slope_distance": 424.36019437473783,
+                    "total_slope_distance": 424.3692636642578
+                }
+            ]
+        },
+        {
+            "run_number": 4,
+            "start_time": 1725714610260,
+            "finish_time": 1725714644434,
+            "segments": [
+                {
+                    "name": "Start Line",
+                    "time": 0,
+                    "duration": 0,
+                    "speed": 8.369798683361505,
+                    "segment_slope_distance": 0,
+                    "total_slope_distance": 0
+                },
+                {
+                    "name": "Finish Line",
+                    "time": 34.174,
+                    "duration": 34.174,
+                    "speed": 15.369916718277949,
+                    "segment_slope_distance": 446.3950138940471,
+                    "total_slope_distance": 446.4035179750374
+                }
+            ]
+        },
+        {
+            "run_number": 5,
+            "start_time": 1725715443791,
+            "finish_time": 1725715478095,
+            "segments": [
+                {
+                    "name": "Start Line",
+                    "time": 0,
+                    "duration": 0,
+                    "speed": 7.912020428209219,
+                    "segment_slope_distance": 0,
+                    "total_slope_distance": 0
+                },
+                {
+                    "name": "Finish Line",
+                    "time": 34.304,
+                    "duration": 34.304,
+                    "speed": 15.334492535783504,
+                    "segment_slope_distance": 429.68478158252117,
+                    "total_slope_distance": 429.69267733461373
+                }
+            ]
+        }
+    ]
+}

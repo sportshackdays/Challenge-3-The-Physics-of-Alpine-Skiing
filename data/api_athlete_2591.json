@@ -1,0 +1,19 @@
+{
+    "id": 2591,
+    "username": "MANAGED-130ec4e5-0096-4477-ab71-1d9f129cdd44",
+    "external_id": null,
+    "managed_by": 21,
+    "athlete_profile": {
+        "id": 2343,
+        "external_id": null,
+        "first_name": "Athlete2",
+        "last_name": "AS2",
+        "gender": "M",
+        "weight": null,
+        "height": null,
+        "birth_date": "2000-01-01",
+        "nationality": null,
+        "profile_picture": null
+    },
+    "is_default_athlete": false
+}

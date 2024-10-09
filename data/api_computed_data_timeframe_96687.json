@@ -1,0 +1,385 @@
+{
+    "first_timestamp": 1725710498800,
+    "last_computation": 1725730108890,
+    "last_timestamp": 1725717025700,
+    "runs": [
+        {
+            "run_number": 1,
+            "start_time": 1725711635722,
+            "finish_time": 1725711675512,
+            "segments": [
+                {
+                    "name": "Start Line",
+                    "time": 0,
+                    "duration": 0,
+                    "speed": 8.809952767546486,
+                    "segment_slope_distance": 0,
+                    "total_slope_distance": 0
+                },
+                {
+                    "name": "Lap1",
+                    "time": 16.94,
+                    "duration": 16.94,
+                    "speed": 11.86506782483775,
+                    "segment_slope_distance": 194.50160894189798,
+                    "total_slope_distance": 194.50160894189798
+                },
+                {
+                    "name": "HAIR1",
+                    "time": 25.501,
+                    "duration": 8.561,
+                    "speed": 12.895449813302365,
+                    "segment_slope_distance": 94.248540338113,
+                    "total_slope_distance": 288.75014928001053
+                },
+                {
+                    "name": "LAP2",
+                    "time": 28.318,
+                    "duration": 2.817,
+                    "speed": 15.705250313191446,
+                    "segment_slope_distance": 42.66300954679651,
+                    "total_slope_distance": 331.4131588268074
+                },
+                {
+                    "name": "TRI in",
+                    "time": 33.267,
+                    "duration": 4.949,
+                    "speed": 14.407359001878172,
+                    "segment_slope_distance": 75.03203239811234,
+                    "total_slope_distance": 406.44519122491937
+                },
+                {
+                    "name": "tri Out",
+                    "time": 36.004,
+                    "duration": 2.737,
+                    "speed": 13.922024361808882,
+                    "segment_slope_distance": 39.05284244886751,
+                    "total_slope_distance": 445.4980336737873
+                },
+                {
+                    "name": "Finish Line",
+                    "time": 39.79,
+                    "duration": 3.786,
+                    "speed": 15.582920678281079,
+                    "segment_slope_distance": 55.98693918761631,
+                    "total_slope_distance": 501.4849728614039
+                }
+            ]
+        },
+        {
+            "run_number": 2,
+            "start_time": 1725712408977,
+            "finish_time": 1725712449350,
+            "segments": [
+                {
+                    "name": "Start Line",
+                    "time": 0,
+                    "duration": 0,
+                    "speed": 8.968263400820696,
+                    "segment_slope_distance": 0,
+                    "total_slope_distance": 0
+                },
+                {
+                    "name": "Lap1",
+                    "time": 17.14,
+                    "duration": 17.14,
+                    "speed": 11.482625549503041,
+                    "segment_slope_distance": 194.22374995391127,
+                    "total_slope_distance": 194.22374995391127
+                },
+                {
+                    "name": "HAIR1",
+                    "time": 26.056,
+                    "duration": 8.916,
+                    "speed": 12.456168279426862,
+                    "segment_slope_distance": 94.36838757972578,
+                    "total_slope_distance": 288.59213753363696
+                },
+                {
+                    "name": "LAP2",
+                    "time": 28.953,
+                    "duration": 2.897,
+                    "speed": 15.016515426356408,
+                    "segment_slope_distance": 42.72009757430129,
+                    "total_slope_distance": 331.3122351079384
+                },
+                {
+                    "name": "TRI in",
+                    "time": 33.954,
+                    "duration": 5.001,
+                    "speed": 14.738412459250826,
+                    "segment_slope_distance": 75.01775917485935,
+                    "total_slope_distance": 406.3299942827978
+                },
+                {
+                    "name": "tri Out",
+                    "time": 36.658,
+                    "duration": 2.704,
+                    "speed": 14.075431302627994,
+                    "segment_slope_distance": 38.94693075255637,
+                    "total_slope_distance": 445.27692503535377
+                },
+                {
+                    "name": "Finish Line",
+                    "time": 40.373,
+                    "duration": 3.715,
+                    "speed": 15.960631895385594,
+                    "segment_slope_distance": 56.023545692685786,
+                    "total_slope_distance": 501.3004707280396
+                }
+            ]
+        },
+        {
+            "run_number": 3,
+            "start_time": 1725713442127,
+            "finish_time": 1725713482023,
+            "segments": [
+                {
+                    "name": "Start Line",
+                    "time": 0,
+                    "duration": 0,
+                    "speed": 9.228101957331205,
+                    "segment_slope_distance": 0,
+                    "total_slope_distance": 0
+                },
+                {
+                    "name": "Lap1",
+                    "time": 17.243,
+                    "duration": 17.243,
+                    "speed": 11.294002082964214,
+                    "segment_slope_distance": 194.1227311187128,
+                    "total_slope_distance": 194.1227311187128
+                },
+                {
+                    "name": "HAIR1",
+                    "time": 25.77,
+                    "duration": 8.527,
+                    "speed": 13.402346317884044,
+                    "segment_slope_distance": 94.14079066170711,
+                    "total_slope_distance": 288.2635217804199
+                },
+                {
+                    "name": "LAP2",
+                    "time": 28.548,
+                    "duration": 2.778,
+                    "speed": 15.285354528518468,
+                    "segment_slope_distance": 42.65278415471201,
+                    "total_slope_distance": 330.91630593513196
+                },
+                {
+                    "name": "TRI in",
+                    "time": 33.501,
+                    "duration": 4.953,
+                    "speed": 14.637962550136546,
+                    "segment_slope_distance": 75.13973823337385,
+                    "total_slope_distance": 406.0560441685054
+                },
+                {
+                    "name": "tri Out",
+                    "time": 36.208,
+                    "duration": 2.707,
+                    "speed": 13.887280120671578,
+                    "segment_slope_distance": 39.08490393048474,
+                    "total_slope_distance": 445.14094809898995
+                },
+                {
+                    "name": "Finish Line",
+                    "time": 39.896,
+                    "duration": 3.688,
+                    "speed": 16.262327911713626,
+                    "segment_slope_distance": 55.97899905508206,
+                    "total_slope_distance": 501.1199471540715
+                }
+            ]
+        },
+        {
+            "run_number": 4,
+            "start_time": 1725714341923,
+            "finish_time": 1725714382039,
+            "segments": [
+                {
+                    "name": "Start Line",
+                    "time": 0,
+                    "duration": 0,
+                    "speed": 8.685428885351604,
+                    "segment_slope_distance": 0,
+                    "total_slope_distance": 0
+                },
+                {
+                    "name": "Lap1",
+                    "time": 17.347,
+                    "duration": 17.347,
+                    "speed": 11.443186308454477,
+                    "segment_slope_distance": 194.04176630152097,
+                    "total_slope_distance": 194.04176630152097
+                },
+                {
+                    "name": "HAIR1",
+                    "time": 26.001,
+                    "duration": 8.654,
+                    "speed": 13.581143794187586,
+                    "segment_slope_distance": 94.17633970290247,
+                    "total_slope_distance": 288.2181060044236
+                },
+                {
+                    "name": "LAP2",
+                    "time": 28.796,
+                    "duration": 2.795,
+                    "speed": 15.660722373648671,
+                    "segment_slope_distance": 42.64349133235426,
+                    "total_slope_distance": 330.86159733677783
+                },
+                {
+                    "name": "TRI in",
+                    "time": 33.752,
+                    "duration": 4.956,
+                    "speed": 15.03959426605319,
+                    "segment_slope_distance": 75.19678474645887,
+                    "total_slope_distance": 406.0583820832368
+                },
+                {
+                    "name": "tri Out",
+                    "time": 36.477,
+                    "duration": 2.725,
+                    "speed": 14.703137828368474,
+                    "segment_slope_distance": 39.142967666968936,
+                    "total_slope_distance": 445.2013497502061
+                },
+                {
+                    "name": "Finish Line",
+                    "time": 40.116,
+                    "duration": 3.639,
+                    "speed": 16.154964598611784,
+                    "segment_slope_distance": 55.93668563252642,
+                    "total_slope_distance": 501.1380353827324
+                }
+            ]
+        },
+        {
+            "run_number": 5,
+            "start_time": 1725715161314,
+            "finish_time": 1725715201954,
+            "segments": [
+                {
+                    "name": "Start Line",
+                    "time": 0,
+                    "duration": 0,
+                    "speed": 8.686541640353772,
+                    "segment_slope_distance": 0,
+                    "total_slope_distance": 0
+                },
+                {
+                    "name": "Lap1",
+                    "time": 17.578,
+                    "duration": 17.578,
+                    "speed": 11.661867776647101,
+                    "segment_slope_distance": 196.1474895342394,
+                    "total_slope_distance": 196.1474895342394
+                },
+                {
+                    "name": "HAIR1",
+                    "time": 26.412,
+                    "duration": 8.834,
+                    "speed": 13.403407353147184,
+                    "segment_slope_distance": 94.50110119700577,
+                    "total_slope_distance": 290.64859073124467
+                },
+                {
+                    "name": "LAP2",
+                    "time": 29.259,
+                    "duration": 2.847,
+                    "speed": 16.7456731696131,
+                    "segment_slope_distance": 43.20154586105745,
+                    "total_slope_distance": 333.85013659230185
+                },
+                {
+                    "name": "TRI in",
+                    "time": 34.141,
+                    "duration": 4.882,
+                    "speed": 14.349780873675389,
+                    "segment_slope_distance": 76.79076044240472,
+                    "total_slope_distance": 410.6408970347069
+                },
+                {
+                    "name": "tri Out",
+                    "time": 36.964,
+                    "duration": 2.823,
+                    "speed": 14.42863705212658,
+                    "segment_slope_distance": 39.33324316322541,
+                    "total_slope_distance": 449.97414019793246
+                },
+                {
+                    "name": "Finish Line",
+                    "time": 40.64,
+                    "duration": 3.676,
+                    "speed": 16.111649681221348,
+                    "segment_slope_distance": 56.59194477945687,
+                    "total_slope_distance": 506.5660849773897
+                }
+            ]
+        },
+        {
+            "run_number": 6,
+            "start_time": 1725716196089,
+            "finish_time": 1725716236488,
+            "segments": [
+                {
+                    "name": "Start Line",
+                    "time": 0,
+                    "duration": 0,
+                    "speed": 8.484762560366674,
+                    "segment_slope_distance": 0,
+                    "total_slope_distance": 0
+                },
+                {
+                    "name": "Lap1",
+                    "time": 17.738,
+                    "duration": 17.738,
+                    "speed": 11.008292342652423,
+                    "segment_slope_distance": 194.50364997264657,
+                    "total_slope_distance": 194.50364997264657
+                },
+                {
+                    "name": "HAIR1",
+                    "time": 26.27,
+                    "duration": 8.532,
+                    "speed": 13.62198457952805,
+                    "segment_slope_distance": 94.16662576407418,
+                    "total_slope_distance": 288.6702757367207
+                },
+                {
+                    "name": "LAP2",
+                    "time": 29.062,
+                    "duration": 2.792,
+                    "speed": 15.227158055054133,
+                    "segment_slope_distance": 42.82493831681809,
+                    "total_slope_distance": 331.4952140535385
+                },
+                {
+                    "name": "TRI in",
+                    "time": 34.098,
+                    "duration": 5.036,
+                    "speed": 14.94311846680605,
+                    "segment_slope_distance": 75.3478909782001,
+                    "total_slope_distance": 406.84310503173936
+                },
+                {
+                    "name": "tri Out",
+                    "time": 36.775,
+                    "duration": 2.677,
+                    "speed": 14.75381390464174,
+                    "segment_slope_distance": 39.16150442868731,
+                    "total_slope_distance": 446.00460946042665
+                },
+                {
+                    "name": "Finish Line",
+                    "time": 40.399,
+                    "duration": 3.624,
+                    "speed": 15.98858419122844,
+                    "segment_slope_distance": 56.065052325686864,
+                    "total_slope_distance": 502.0696617861134
+                }
+            ]
+        }
+    ]
+}

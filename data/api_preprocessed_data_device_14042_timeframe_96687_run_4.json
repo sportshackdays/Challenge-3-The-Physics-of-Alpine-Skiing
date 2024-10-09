@@ -1,0 +1,3697 @@
+{
+    "count": 401,
+    "page": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "gnss.altitude": 651.723,
+            "gnss.latitude": -54.7160057,
+            "gnss.longitude": -67.9754001,
+            "gnss.speedD": 1.82,
+            "gnss.speedE": 3.632,
+            "gnss.speedN": -7.99,
+            "gnss.timestamp": 1725714342000
+        },
+        {
+            "gnss.altitude": 651.416,
+            "gnss.latitude": -54.7160129,
+            "gnss.longitude": -67.9753944,
+            "gnss.speedD": 1.978,
+            "gnss.speedE": 3.579,
+            "gnss.speedN": -8.161,
+            "gnss.timestamp": 1725714342100
+        },
+        {
+            "gnss.altitude": 651.065,
+            "gnss.latitude": -54.71602,
+            "gnss.longitude": -67.9753886,
+            "gnss.speedD": 2.169,
+            "gnss.speedE": 3.646,
+            "gnss.speedN": -8.152,
+            "gnss.timestamp": 1725714342200
+        },
+        {
+            "gnss.altitude": 650.669,
+            "gnss.latitude": -54.7160271,
+            "gnss.longitude": -67.9753837,
+            "gnss.speedD": 2.393,
+            "gnss.speedE": 3.144,
+            "gnss.speedN": -8.195,
+            "gnss.timestamp": 1725714342300
+        },
+        {
+            "gnss.altitude": 650.262,
+            "gnss.latitude": -54.7160348,
+            "gnss.longitude": -67.9753812,
+            "gnss.speedD": 2.605,
+            "gnss.speedE": 1.839,
+            "gnss.speedN": -8.633,
+            "gnss.timestamp": 1725714342400
+        },
+        {
+            "gnss.altitude": 649.918,
+            "gnss.latitude": -54.7160432,
+            "gnss.longitude": -67.9753791,
+            "gnss.speedD": 2.712,
+            "gnss.speedE": 1.376,
+            "gnss.speedN": -9.274,
+            "gnss.timestamp": 1725714342500
+        },
+        {
+            "gnss.altitude": 649.536,
+            "gnss.latitude": -54.7160514,
+            "gnss.longitude": -67.9753774,
+            "gnss.speedD": 2.85,
+            "gnss.speedE": 1.07,
+            "gnss.speedN": -9.341,
+            "gnss.timestamp": 1725714342600
+        },
+        {
+            "gnss.altitude": 649.172,
+            "gnss.latitude": -54.7160595,
+            "gnss.longitude": -67.9753775,
+            "gnss.speedD": 2.948,
+            "gnss.speedE": 0.139,
+            "gnss.speedN": -9.152,
+            "gnss.timestamp": 1725714342700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714342800,
+            "gnss.altitude": 648.951,
+            "gnss.latitude": -54.7160677,
+            "gnss.longitude": -67.9753812,
+            "gnss.speedD": 2.859,
+            "gnss.speedE": -1.8,
+            "gnss.speedN": -9.021,
+            "gnss.timestamp": 1725714342800
+        },
+        {
+            "gnss.altitude": 648.771,
+            "gnss.latitude": -54.7160756,
+            "gnss.longitude": -67.975387,
+            "gnss.speedD": 2.729,
+            "gnss.speedE": -3.248,
+            "gnss.speedN": -8.685,
+            "gnss.timestamp": 1725714342900
+        },
+        {
+            "gnss.altitude": 648.58,
+            "gnss.latitude": -54.7160839,
+            "gnss.longitude": -67.9753942,
+            "gnss.speedD": 2.631,
+            "gnss.speedE": -4.274,
+            "gnss.speedN": -9.012,
+            "gnss.timestamp": 1725714343000
+        },
+        {
+            "gnss.altitude": 648.326,
+            "gnss.latitude": -54.7160923,
+            "gnss.longitude": -67.9754013,
+            "gnss.speedD": 2.618,
+            "gnss.speedE": -4.506,
+            "gnss.speedN": -9.233,
+            "gnss.timestamp": 1725714343100
+        },
+        {
+            "gnss.altitude": 647.962,
+            "gnss.latitude": -54.7161002,
+            "gnss.longitude": -67.9754082,
+            "gnss.speedD": 2.742,
+            "gnss.speedE": -4.53,
+            "gnss.speedN": -8.975,
+            "gnss.timestamp": 1725714343200
+        },
+        {
+            "gnss.altitude": 647.592,
+            "gnss.latitude": -54.7161084,
+            "gnss.longitude": -67.9754152,
+            "gnss.speedD": 2.859,
+            "gnss.speedE": -4.583,
+            "gnss.speedN": -9.17,
+            "gnss.timestamp": 1725714343300
+        },
+        {
+            "gnss.altitude": 647.075,
+            "gnss.latitude": -54.7161164,
+            "gnss.longitude": -67.9754212,
+            "gnss.speedD": 3.134,
+            "gnss.speedE": -4.138,
+            "gnss.speedN": -9.215,
+            "gnss.timestamp": 1725714343400
+        },
+        {
+            "gnss.altitude": 646.584,
+            "gnss.latitude": -54.7161246,
+            "gnss.longitude": -67.9754261,
+            "gnss.speedD": 3.346,
+            "gnss.speedE": -3.414,
+            "gnss.speedN": -9.338,
+            "gnss.timestamp": 1725714343500
+        },
+        {
+            "gnss.altitude": 646.237,
+            "gnss.latitude": -54.7161336,
+            "gnss.longitude": -67.9754277,
+            "gnss.speedD": 3.362,
+            "gnss.speedE": -1.557,
+            "gnss.speedN": -9.974,
+            "gnss.timestamp": 1725714343600
+        },
+        {
+            "gnss.altitude": 645.96,
+            "gnss.latitude": -54.7161425,
+            "gnss.longitude": -67.9754276,
+            "gnss.speedD": 3.293,
+            "gnss.speedE": -0.216,
+            "gnss.speedN": -9.885,
+            "gnss.timestamp": 1725714343700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714343800,
+            "gnss.altitude": 645.718,
+            "gnss.latitude": -54.7161515,
+            "gnss.longitude": -67.9754244,
+            "gnss.speedD": 3.19,
+            "gnss.speedE": 1.601,
+            "gnss.speedN": -10.04,
+            "gnss.timestamp": 1725714343800
+        },
+        {
+            "gnss.altitude": 645.465,
+            "gnss.latitude": -54.716161,
+            "gnss.longitude": -67.9754205,
+            "gnss.speedD": 3.115,
+            "gnss.speedE": 2.386,
+            "gnss.speedN": -10.452,
+            "gnss.timestamp": 1725714343900
+        },
+        {
+            "gnss.altitude": 645.116,
+            "gnss.latitude": -54.7161701,
+            "gnss.longitude": -67.9754169,
+            "gnss.speedD": 3.16,
+            "gnss.speedE": 2.292,
+            "gnss.speedN": -10.237,
+            "gnss.timestamp": 1725714344000
+        },
+        {
+            "gnss.altitude": 644.693,
+            "gnss.latitude": -54.716179,
+            "gnss.longitude": -67.975413,
+            "gnss.speedD": 3.287,
+            "gnss.speedE": 2.429,
+            "gnss.speedN": -10.068,
+            "gnss.timestamp": 1725714344100
+        },
+        {
+            "gnss.altitude": 644.206,
+            "gnss.latitude": -54.7161878,
+            "gnss.longitude": -67.9754093,
+            "gnss.speedD": 3.473,
+            "gnss.speedE": 2.36,
+            "gnss.speedN": -10.026,
+            "gnss.timestamp": 1725714344200
+        },
+        {
+            "gnss.altitude": 643.631,
+            "gnss.latitude": -54.7161965,
+            "gnss.longitude": -67.9754053,
+            "gnss.speedD": 3.74,
+            "gnss.speedE": 2.529,
+            "gnss.speedN": -9.933,
+            "gnss.timestamp": 1725714344300
+        },
+        {
+            "gnss.altitude": 643.129,
+            "gnss.latitude": -54.7162061,
+            "gnss.longitude": -67.9754041,
+            "gnss.speedD": 3.89,
+            "gnss.speedE": 1.118,
+            "gnss.speedN": -10.47,
+            "gnss.timestamp": 1725714344400
+        },
+        {
+            "gnss.altitude": 642.78,
+            "gnss.latitude": -54.7162156,
+            "gnss.longitude": -67.9754042,
+            "gnss.speedD": 3.842,
+            "gnss.speedE": 0.161,
+            "gnss.speedN": -10.525,
+            "gnss.timestamp": 1725714344500
+        },
+        {
+            "gnss.altitude": 642.506,
+            "gnss.latitude": -54.7162247,
+            "gnss.longitude": -67.9754048,
+            "gnss.speedD": 3.709,
+            "gnss.speedE": -0.306,
+            "gnss.speedN": -10.075,
+            "gnss.timestamp": 1725714344600
+        },
+        {
+            "gnss.altitude": 642.071,
+            "gnss.latitude": -54.7162336,
+            "gnss.longitude": -67.975406,
+            "gnss.speedD": 3.786,
+            "gnss.speedE": -0.658,
+            "gnss.speedN": -10.035,
+            "gnss.timestamp": 1725714344700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714344800,
+            "gnss.altitude": 641.577,
+            "gnss.latitude": -54.7162427,
+            "gnss.longitude": -67.9754068,
+            "gnss.speedD": 3.925,
+            "gnss.speedE": -0.572,
+            "gnss.speedN": -10.181,
+            "gnss.timestamp": 1725714344800
+        },
+        {
+            "gnss.altitude": 640.996,
+            "gnss.latitude": -54.7162515,
+            "gnss.longitude": -67.9754073,
+            "gnss.speedD": 4.15,
+            "gnss.speedE": -0.436,
+            "gnss.speedN": -10.082,
+            "gnss.timestamp": 1725714344900
+        },
+        {
+            "gnss.altitude": 640.473,
+            "gnss.latitude": -54.7162604,
+            "gnss.longitude": -67.975407,
+            "gnss.speedD": 4.28,
+            "gnss.speedE": 0.102,
+            "gnss.speedN": -10.161,
+            "gnss.timestamp": 1725714345000
+        },
+        {
+            "gnss.altitude": 640.045,
+            "gnss.latitude": -54.7162691,
+            "gnss.longitude": -67.9754038,
+            "gnss.speedD": 4.276,
+            "gnss.speedE": 1.63,
+            "gnss.speedN": -9.891,
+            "gnss.timestamp": 1725714345100
+        },
+        {
+            "gnss.altitude": 639.724,
+            "gnss.latitude": -54.7162772,
+            "gnss.longitude": -67.9753986,
+            "gnss.speedD": 4.147,
+            "gnss.speedE": 3.006,
+            "gnss.speedN": -9.3,
+            "gnss.timestamp": 1725714345200
+        },
+        {
+            "gnss.altitude": 639.42,
+            "gnss.latitude": -54.7162857,
+            "gnss.longitude": -67.9753924,
+            "gnss.speedD": 4.018,
+            "gnss.speedE": 3.811,
+            "gnss.speedN": -9.343,
+            "gnss.timestamp": 1725714345300
+        },
+        {
+            "gnss.altitude": 638.988,
+            "gnss.latitude": -54.7162936,
+            "gnss.longitude": -67.9753866,
+            "gnss.speedD": 4.051,
+            "gnss.speedE": 3.721,
+            "gnss.speedN": -8.979,
+            "gnss.timestamp": 1725714345400
+        },
+        {
+            "gnss.altitude": 638.489,
+            "gnss.latitude": -54.7163019,
+            "gnss.longitude": -67.9753813,
+            "gnss.speedD": 4.165,
+            "gnss.speedE": 3.443,
+            "gnss.speedN": -9.279,
+            "gnss.timestamp": 1725714345500
+        },
+        {
+            "gnss.altitude": 637.966,
+            "gnss.latitude": -54.7163099,
+            "gnss.longitude": -67.9753766,
+            "gnss.speedD": 4.288,
+            "gnss.speedE": 3.084,
+            "gnss.speedN": -9.174,
+            "gnss.timestamp": 1725714345600
+        },
+        {
+            "gnss.altitude": 637.42,
+            "gnss.latitude": -54.7163181,
+            "gnss.longitude": -67.9753719,
+            "gnss.speedD": 4.425,
+            "gnss.speedE": 2.974,
+            "gnss.speedN": -9.296,
+            "gnss.timestamp": 1725714345700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714345800,
+            "gnss.altitude": 636.86,
+            "gnss.latitude": -54.7163264,
+            "gnss.longitude": -67.9753683,
+            "gnss.speedD": 4.562,
+            "gnss.speedE": 2.428,
+            "gnss.speedN": -9.423,
+            "gnss.timestamp": 1725714345800
+        },
+        {
+            "gnss.altitude": 636.437,
+            "gnss.latitude": -54.7163346,
+            "gnss.longitude": -67.9753674,
+            "gnss.speedD": 4.527,
+            "gnss.speedE": 1.041,
+            "gnss.speedN": -9.186,
+            "gnss.timestamp": 1725714345900
+        },
+        {
+            "gnss.altitude": 635.968,
+            "gnss.latitude": -54.7163428,
+            "gnss.longitude": -67.9753682,
+            "gnss.speedD": 4.548,
+            "gnss.speedE": -0.149,
+            "gnss.speedN": -9.15,
+            "gnss.timestamp": 1725714346000
+        },
+        {
+            "gnss.altitude": 635.593,
+            "gnss.latitude": -54.7163504,
+            "gnss.longitude": -67.9753702,
+            "gnss.speedD": 4.458,
+            "gnss.speedE": -1.027,
+            "gnss.speedN": -8.435,
+            "gnss.timestamp": 1725714346100
+        },
+        {
+            "gnss.altitude": 635.334,
+            "gnss.latitude": -54.716358,
+            "gnss.longitude": -67.9753754,
+            "gnss.speedD": 4.254,
+            "gnss.speedE": -2.753,
+            "gnss.speedN": -8.114,
+            "gnss.timestamp": 1725714346200
+        },
+        {
+            "gnss.altitude": 635.174,
+            "gnss.latitude": -54.7163648,
+            "gnss.longitude": -67.9753833,
+            "gnss.speedD": 3.96,
+            "gnss.speedE": -4.488,
+            "gnss.speedN": -7.194,
+            "gnss.timestamp": 1725714346300
+        },
+        {
+            "gnss.altitude": 634.985,
+            "gnss.latitude": -54.716371,
+            "gnss.longitude": -67.9753918,
+            "gnss.speedD": 3.733,
+            "gnss.speedE": -5.141,
+            "gnss.speedN": -6.667,
+            "gnss.timestamp": 1725714346400
+        },
+        {
+            "gnss.altitude": 634.771,
+            "gnss.latitude": -54.7163778,
+            "gnss.longitude": -67.9753999,
+            "gnss.speedD": 3.564,
+            "gnss.speedE": -5.085,
+            "gnss.speedN": -7.113,
+            "gnss.timestamp": 1725714346500
+        },
+        {
+            "gnss.altitude": 634.375,
+            "gnss.latitude": -54.7163841,
+            "gnss.longitude": -67.9754083,
+            "gnss.speedD": 3.609,
+            "gnss.speedE": -5.431,
+            "gnss.speedN": -7.071,
+            "gnss.timestamp": 1725714346600
+        },
+        {
+            "gnss.altitude": 633.873,
+            "gnss.latitude": -54.7163903,
+            "gnss.longitude": -67.9754172,
+            "gnss.speedD": 3.764,
+            "gnss.speedE": -5.76,
+            "gnss.speedN": -7.127,
+            "gnss.timestamp": 1725714346700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714346800,
+            "gnss.altitude": 633.339,
+            "gnss.latitude": -54.716397,
+            "gnss.longitude": -67.9754251,
+            "gnss.speedD": 3.938,
+            "gnss.speedE": -5.318,
+            "gnss.speedN": -7.688,
+            "gnss.timestamp": 1725714346800
+        },
+        {
+            "gnss.altitude": 632.846,
+            "gnss.latitude": -54.7164041,
+            "gnss.longitude": -67.9754313,
+            "gnss.speedD": 4.049,
+            "gnss.speedE": -4.278,
+            "gnss.speedN": -8.107,
+            "gnss.timestamp": 1725714346900
+        },
+        {
+            "gnss.altitude": 632.427,
+            "gnss.latitude": -54.7164119,
+            "gnss.longitude": -67.9754343,
+            "gnss.speedD": 4.067,
+            "gnss.speedE": -2.379,
+            "gnss.speedN": -8.654,
+            "gnss.timestamp": 1725714347000
+        },
+        {
+            "gnss.altitude": 632.09,
+            "gnss.latitude": -54.7164196,
+            "gnss.longitude": -67.9754333,
+            "gnss.speedD": 3.988,
+            "gnss.speedE": 0.058,
+            "gnss.speedN": -8.689,
+            "gnss.timestamp": 1725714347100
+        },
+        {
+            "gnss.altitude": 631.728,
+            "gnss.latitude": -54.716427,
+            "gnss.longitude": -67.9754293,
+            "gnss.speedD": 3.945,
+            "gnss.speedE": 2.045,
+            "gnss.speedN": -8.432,
+            "gnss.timestamp": 1725714347200
+        },
+        {
+            "gnss.altitude": 631.406,
+            "gnss.latitude": -54.7164353,
+            "gnss.longitude": -67.9754252,
+            "gnss.speedD": 3.876,
+            "gnss.speedE": 2.589,
+            "gnss.speedN": -8.927,
+            "gnss.timestamp": 1725714347300
+        },
+        {
+            "gnss.altitude": 631.182,
+            "gnss.latitude": -54.7164443,
+            "gnss.longitude": -67.9754207,
+            "gnss.speedD": 3.712,
+            "gnss.speedE": 2.978,
+            "gnss.speedN": -9.479,
+            "gnss.timestamp": 1725714347400
+        },
+        {
+            "gnss.altitude": 630.816,
+            "gnss.latitude": -54.7164522,
+            "gnss.longitude": -67.975416,
+            "gnss.speedD": 3.704,
+            "gnss.speedE": 2.999,
+            "gnss.speedN": -8.915,
+            "gnss.timestamp": 1725714347500
+        },
+        {
+            "gnss.altitude": 630.311,
+            "gnss.latitude": -54.71646,
+            "gnss.longitude": -67.9754113,
+            "gnss.speedD": 3.846,
+            "gnss.speedE": 2.902,
+            "gnss.speedN": -9.081,
+            "gnss.timestamp": 1725714347600
+        },
+        {
+            "gnss.altitude": 629.642,
+            "gnss.latitude": -54.7164678,
+            "gnss.longitude": -67.9754064,
+            "gnss.speedD": 4.143,
+            "gnss.speedE": 2.908,
+            "gnss.speedN": -9.286,
+            "gnss.timestamp": 1725714347700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714347800,
+            "gnss.altitude": 629.04,
+            "gnss.latitude": -54.7164754,
+            "gnss.longitude": -67.9754028,
+            "gnss.speedD": 4.339,
+            "gnss.speedE": 2.307,
+            "gnss.speedN": -8.998,
+            "gnss.timestamp": 1725714347800
+        },
+        {
+            "gnss.altitude": 628.588,
+            "gnss.latitude": -54.716484,
+            "gnss.longitude": -67.9754022,
+            "gnss.speedD": 4.366,
+            "gnss.speedE": 0.786,
+            "gnss.speedN": -9.45,
+            "gnss.timestamp": 1725714347900
+        },
+        {
+            "gnss.altitude": 628.16,
+            "gnss.latitude": -54.7164923,
+            "gnss.longitude": -67.975405,
+            "gnss.speedD": 4.362,
+            "gnss.speedE": -1.197,
+            "gnss.speedN": -9.228,
+            "gnss.timestamp": 1725714348000
+        },
+        {
+            "gnss.altitude": 627.894,
+            "gnss.latitude": -54.7165006,
+            "gnss.longitude": -67.9754122,
+            "gnss.speedD": 4.191,
+            "gnss.speedE": -3.73,
+            "gnss.speedN": -8.893,
+            "gnss.timestamp": 1725714348100
+        },
+        {
+            "gnss.altitude": 627.713,
+            "gnss.latitude": -54.7165085,
+            "gnss.longitude": -67.97542,
+            "gnss.speedD": 3.945,
+            "gnss.speedE": -4.598,
+            "gnss.speedN": -8.433,
+            "gnss.timestamp": 1725714348200
+        },
+        {
+            "gnss.altitude": 627.394,
+            "gnss.latitude": -54.7165167,
+            "gnss.longitude": -67.9754279,
+            "gnss.speedD": 3.871,
+            "gnss.speedE": -4.906,
+            "gnss.speedN": -8.778,
+            "gnss.timestamp": 1725714348300
+        },
+        {
+            "gnss.altitude": 627.034,
+            "gnss.latitude": -54.7165249,
+            "gnss.longitude": -67.9754357,
+            "gnss.speedD": 3.847,
+            "gnss.speedE": -4.994,
+            "gnss.speedN": -8.983,
+            "gnss.timestamp": 1725714348400
+        },
+        {
+            "gnss.altitude": 626.593,
+            "gnss.latitude": -54.7165323,
+            "gnss.longitude": -67.9754435,
+            "gnss.speedD": 3.904,
+            "gnss.speedE": -5.105,
+            "gnss.speedN": -8.61,
+            "gnss.timestamp": 1725714348500
+        },
+        {
+            "gnss.altitude": 626.14,
+            "gnss.latitude": -54.7165403,
+            "gnss.longitude": -67.9754515,
+            "gnss.speedD": 3.972,
+            "gnss.speedE": -5.149,
+            "gnss.speedN": -8.876,
+            "gnss.timestamp": 1725714348600
+        },
+        {
+            "gnss.altitude": 625.54,
+            "gnss.latitude": -54.716548,
+            "gnss.longitude": -67.975459,
+            "gnss.speedD": 4.183,
+            "gnss.speedE": -5.07,
+            "gnss.speedN": -9.038,
+            "gnss.timestamp": 1725714348700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714348800,
+            "gnss.altitude": 624.95,
+            "gnss.latitude": -54.7165558,
+            "gnss.longitude": -67.9754655,
+            "gnss.speedD": 4.36,
+            "gnss.speedE": -4.479,
+            "gnss.speedN": -9.12,
+            "gnss.timestamp": 1725714348800
+        },
+        {
+            "gnss.altitude": 624.57,
+            "gnss.latitude": -54.7165643,
+            "gnss.longitude": -67.9754693,
+            "gnss.speedD": 4.302,
+            "gnss.speedE": -2.825,
+            "gnss.speedN": -9.397,
+            "gnss.timestamp": 1725714348900
+        },
+        {
+            "gnss.altitude": 624.314,
+            "gnss.latitude": -54.7165737,
+            "gnss.longitude": -67.9754696,
+            "gnss.speedD": 4.124,
+            "gnss.speedE": -0.546,
+            "gnss.speedN": -10.071,
+            "gnss.timestamp": 1725714349000
+        },
+        {
+            "gnss.altitude": 623.994,
+            "gnss.latitude": -54.7165831,
+            "gnss.longitude": -67.975467,
+            "gnss.speedD": 4.03,
+            "gnss.speedE": 1.347,
+            "gnss.speedN": -10.324,
+            "gnss.timestamp": 1725714349100
+        },
+        {
+            "gnss.altitude": 623.67,
+            "gnss.latitude": -54.7165925,
+            "gnss.longitude": -67.9754648,
+            "gnss.speedD": 3.95,
+            "gnss.speedE": 1.44,
+            "gnss.speedN": -10.23,
+            "gnss.timestamp": 1725714349200
+        },
+        {
+            "gnss.altitude": 623.286,
+            "gnss.latitude": -54.7166018,
+            "gnss.longitude": -67.9754628,
+            "gnss.speedD": 3.943,
+            "gnss.speedE": 1.325,
+            "gnss.speedN": -10.339,
+            "gnss.timestamp": 1725714349300
+        },
+        {
+            "gnss.altitude": 622.813,
+            "gnss.latitude": -54.716611,
+            "gnss.longitude": -67.9754605,
+            "gnss.speedD": 4.026,
+            "gnss.speedE": 1.399,
+            "gnss.speedN": -10.419,
+            "gnss.timestamp": 1725714349400
+        },
+        {
+            "gnss.altitude": 622.273,
+            "gnss.latitude": -54.7166205,
+            "gnss.longitude": -67.9754594,
+            "gnss.speedD": 4.174,
+            "gnss.speedE": 0.753,
+            "gnss.speedN": -10.766,
+            "gnss.timestamp": 1725714349500
+        },
+        {
+            "gnss.altitude": 621.799,
+            "gnss.latitude": -54.7166299,
+            "gnss.longitude": -67.9754606,
+            "gnss.speedD": 4.238,
+            "gnss.speedE": -0.504,
+            "gnss.speedN": -10.582,
+            "gnss.timestamp": 1725714349600
+        },
+        {
+            "gnss.altitude": 621.575,
+            "gnss.latitude": -54.7166393,
+            "gnss.longitude": -67.9754655,
+            "gnss.speedD": 4.038,
+            "gnss.speedE": -2.481,
+            "gnss.speedN": -10.064,
+            "gnss.timestamp": 1725714349700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714349800,
+            "gnss.altitude": 621.345,
+            "gnss.latitude": -54.7166481,
+            "gnss.longitude": -67.9754709,
+            "gnss.speedD": 3.86,
+            "gnss.speedE": -3.11,
+            "gnss.speedN": -9.586,
+            "gnss.timestamp": 1725714349800
+        },
+        {
+            "gnss.altitude": 621.011,
+            "gnss.latitude": -54.7166574,
+            "gnss.longitude": -67.9754774,
+            "gnss.speedD": 3.815,
+            "gnss.speedE": -3.932,
+            "gnss.speedN": -9.991,
+            "gnss.timestamp": 1725714349900
+        },
+        {
+            "gnss.altitude": 620.553,
+            "gnss.latitude": -54.7166662,
+            "gnss.longitude": -67.9754838,
+            "gnss.speedD": 3.896,
+            "gnss.speedE": -4.168,
+            "gnss.speedN": -10.02,
+            "gnss.timestamp": 1725714350000
+        },
+        {
+            "gnss.altitude": 620.007,
+            "gnss.latitude": -54.716675,
+            "gnss.longitude": -67.97549,
+            "gnss.speedD": 4.058,
+            "gnss.speedE": -4.158,
+            "gnss.speedN": -10.129,
+            "gnss.timestamp": 1725714350100
+        },
+        {
+            "gnss.altitude": 619.418,
+            "gnss.latitude": -54.7166841,
+            "gnss.longitude": -67.9754955,
+            "gnss.speedD": 4.249,
+            "gnss.speedE": -3.849,
+            "gnss.speedN": -10.457,
+            "gnss.timestamp": 1725714350200
+        },
+        {
+            "gnss.altitude": 618.857,
+            "gnss.latitude": -54.7166935,
+            "gnss.longitude": -67.9754997,
+            "gnss.speedD": 4.39,
+            "gnss.speedE": -2.999,
+            "gnss.speedN": -10.785,
+            "gnss.timestamp": 1725714350300
+        },
+        {
+            "gnss.altitude": 618.414,
+            "gnss.latitude": -54.7167034,
+            "gnss.longitude": -67.9755022,
+            "gnss.speedD": 4.395,
+            "gnss.speedE": -1.856,
+            "gnss.speedN": -11.049,
+            "gnss.timestamp": 1725714350400
+        },
+        {
+            "gnss.altitude": 618.128,
+            "gnss.latitude": -54.716714,
+            "gnss.longitude": -67.9755017,
+            "gnss.speedD": 4.238,
+            "gnss.speedE": 0.102,
+            "gnss.speedN": -11.338,
+            "gnss.timestamp": 1725714350500
+        },
+        {
+            "gnss.altitude": 617.923,
+            "gnss.latitude": -54.7167243,
+            "gnss.longitude": -67.9754979,
+            "gnss.speedD": 4.011,
+            "gnss.speedE": 2.152,
+            "gnss.speedN": -11.17,
+            "gnss.timestamp": 1725714350600
+        },
+        {
+            "gnss.altitude": 617.69,
+            "gnss.latitude": -54.7167348,
+            "gnss.longitude": -67.9754936,
+            "gnss.speedD": 3.839,
+            "gnss.speedE": 2.768,
+            "gnss.speedN": -11.285,
+            "gnss.timestamp": 1725714350700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714350800,
+            "gnss.altitude": 617.327,
+            "gnss.latitude": -54.7167453,
+            "gnss.longitude": -67.9754898,
+            "gnss.speedD": 3.823,
+            "gnss.speedE": 2.505,
+            "gnss.speedN": -11.495,
+            "gnss.timestamp": 1725714350800
+        },
+        {
+            "gnss.altitude": 616.92,
+            "gnss.latitude": -54.7167559,
+            "gnss.longitude": -67.9754861,
+            "gnss.speedD": 3.852,
+            "gnss.speedE": 2.396,
+            "gnss.speedN": -11.757,
+            "gnss.timestamp": 1725714350900
+        },
+        {
+            "gnss.altitude": 616.51,
+            "gnss.latitude": -54.7167663,
+            "gnss.longitude": -67.9754832,
+            "gnss.speedD": 3.88,
+            "gnss.speedE": 1.96,
+            "gnss.speedN": -11.713,
+            "gnss.timestamp": 1725714351000
+        },
+        {
+            "gnss.altitude": 616.067,
+            "gnss.latitude": -54.7167767,
+            "gnss.longitude": -67.9754808,
+            "gnss.speedD": 3.94,
+            "gnss.speedE": 1.58,
+            "gnss.speedN": -11.729,
+            "gnss.timestamp": 1725714351100
+        },
+        {
+            "gnss.altitude": 615.821,
+            "gnss.latitude": -54.7167877,
+            "gnss.longitude": -67.9754812,
+            "gnss.speedD": 3.795,
+            "gnss.speedE": 0.218,
+            "gnss.speedN": -11.793,
+            "gnss.timestamp": 1725714351200
+        },
+        {
+            "gnss.altitude": 615.683,
+            "gnss.latitude": -54.7167985,
+            "gnss.longitude": -67.9754837,
+            "gnss.speedD": 3.551,
+            "gnss.speedE": -1.043,
+            "gnss.speedN": -11.427,
+            "gnss.timestamp": 1725714351300
+        },
+        {
+            "gnss.altitude": 615.628,
+            "gnss.latitude": -54.716809,
+            "gnss.longitude": -67.9754868,
+            "gnss.speedD": 3.242,
+            "gnss.speedE": -1.498,
+            "gnss.speedN": -11.046,
+            "gnss.timestamp": 1725714351400
+        },
+        {
+            "gnss.altitude": 615.326,
+            "gnss.latitude": -54.716819,
+            "gnss.longitude": -67.9754901,
+            "gnss.speedD": 3.224,
+            "gnss.speedE": -2.017,
+            "gnss.speedN": -11.089,
+            "gnss.timestamp": 1725714351500
+        },
+        {
+            "gnss.altitude": 614.903,
+            "gnss.latitude": -54.7168291,
+            "gnss.longitude": -67.9754933,
+            "gnss.speedD": 3.335,
+            "gnss.speedE": -2.124,
+            "gnss.speedN": -11.391,
+            "gnss.timestamp": 1725714351600
+        },
+        {
+            "gnss.altitude": 614.461,
+            "gnss.latitude": -54.7168392,
+            "gnss.longitude": -67.9754955,
+            "gnss.speedD": 3.449,
+            "gnss.speedE": -1.634,
+            "gnss.speedN": -11.509,
+            "gnss.timestamp": 1725714351700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714351800,
+            "gnss.altitude": 614.2,
+            "gnss.latitude": -54.7168491,
+            "gnss.longitude": -67.9754958,
+            "gnss.speedD": 3.356,
+            "gnss.speedE": -0.438,
+            "gnss.speedN": -11.045,
+            "gnss.timestamp": 1725714351800
+        },
+        {
+            "gnss.altitude": 613.946,
+            "gnss.latitude": -54.7168586,
+            "gnss.longitude": -67.9754948,
+            "gnss.speedD": 3.266,
+            "gnss.speedE": 0.53,
+            "gnss.speedN": -10.576,
+            "gnss.timestamp": 1725714351900
+        },
+        {
+            "gnss.altitude": 613.807,
+            "gnss.latitude": -54.7168683,
+            "gnss.longitude": -67.9754915,
+            "gnss.speedD": 3.061,
+            "gnss.speedE": 1.962,
+            "gnss.speedN": -10.51,
+            "gnss.timestamp": 1725714352000
+        },
+        {
+            "gnss.altitude": 613.659,
+            "gnss.latitude": -54.7168773,
+            "gnss.longitude": -67.9754873,
+            "gnss.speedD": 2.889,
+            "gnss.speedE": 2.601,
+            "gnss.speedN": -9.964,
+            "gnss.timestamp": 1725714352100
+        },
+        {
+            "gnss.altitude": 613.389,
+            "gnss.latitude": -54.7168863,
+            "gnss.longitude": -67.9754827,
+            "gnss.speedD": 2.871,
+            "gnss.speedE": 2.877,
+            "gnss.speedN": -9.998,
+            "gnss.timestamp": 1725714352200
+        },
+        {
+            "gnss.altitude": 613.045,
+            "gnss.latitude": -54.7168954,
+            "gnss.longitude": -67.9754786,
+            "gnss.speedD": 2.937,
+            "gnss.speedE": 2.656,
+            "gnss.speedN": -10.209,
+            "gnss.timestamp": 1725714352300
+        },
+        {
+            "gnss.altitude": 612.602,
+            "gnss.latitude": -54.7169043,
+            "gnss.longitude": -67.9754745,
+            "gnss.speedD": 3.106,
+            "gnss.speedE": 2.523,
+            "gnss.speedN": -10.24,
+            "gnss.timestamp": 1725714352400
+        },
+        {
+            "gnss.altitude": 612.03,
+            "gnss.latitude": -54.7169127,
+            "gnss.longitude": -67.9754704,
+            "gnss.speedD": 3.397,
+            "gnss.speedE": 2.444,
+            "gnss.speedN": -10.076,
+            "gnss.timestamp": 1725714352500
+        },
+        {
+            "gnss.altitude": 611.53,
+            "gnss.latitude": -54.7169219,
+            "gnss.longitude": -67.9754689,
+            "gnss.speedD": 3.584,
+            "gnss.speedE": 1.134,
+            "gnss.speedN": -10.403,
+            "gnss.timestamp": 1725714352600
+        },
+        {
+            "gnss.altitude": 611.152,
+            "gnss.latitude": -54.7169303,
+            "gnss.longitude": -67.9754705,
+            "gnss.speedD": 3.608,
+            "gnss.speedE": -0.572,
+            "gnss.speedN": -9.615,
+            "gnss.timestamp": 1725714352700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714352800,
+            "gnss.altitude": 610.868,
+            "gnss.latitude": -54.7169388,
+            "gnss.longitude": -67.9754741,
+            "gnss.speedD": 3.529,
+            "gnss.speedE": -1.877,
+            "gnss.speedN": -9.364,
+            "gnss.timestamp": 1725714352800
+        },
+        {
+            "gnss.altitude": 610.637,
+            "gnss.latitude": -54.7169464,
+            "gnss.longitude": -67.9754796,
+            "gnss.speedD": 3.393,
+            "gnss.speedE": -3.068,
+            "gnss.speedN": -8.342,
+            "gnss.timestamp": 1725714352900
+        },
+        {
+            "gnss.altitude": 610.344,
+            "gnss.latitude": -54.7169547,
+            "gnss.longitude": -67.9754865,
+            "gnss.speedD": 3.353,
+            "gnss.speedE": -4.055,
+            "gnss.speedN": -8.952,
+            "gnss.timestamp": 1725714353000
+        },
+        {
+            "gnss.altitude": 609.973,
+            "gnss.latitude": -54.7169631,
+            "gnss.longitude": -67.9754933,
+            "gnss.speedD": 3.397,
+            "gnss.speedE": -4.374,
+            "gnss.speedN": -9.249,
+            "gnss.timestamp": 1725714353100
+        },
+        {
+            "gnss.altitude": 609.554,
+            "gnss.latitude": -54.716971,
+            "gnss.longitude": -67.9755002,
+            "gnss.speedD": 3.484,
+            "gnss.speedE": -4.494,
+            "gnss.speedN": -9.057,
+            "gnss.timestamp": 1725714353200
+        },
+        {
+            "gnss.altitude": 609.088,
+            "gnss.latitude": -54.7169791,
+            "gnss.longitude": -67.975507,
+            "gnss.speedD": 3.615,
+            "gnss.speedE": -4.468,
+            "gnss.speedN": -9.281,
+            "gnss.timestamp": 1725714353300
+        },
+        {
+            "gnss.altitude": 608.556,
+            "gnss.latitude": -54.7169875,
+            "gnss.longitude": -67.9755137,
+            "gnss.speedD": 3.802,
+            "gnss.speedE": -4.479,
+            "gnss.speedN": -9.609,
+            "gnss.timestamp": 1725714353400
+        },
+        {
+            "gnss.altitude": 608.002,
+            "gnss.latitude": -54.716996,
+            "gnss.longitude": -67.9755186,
+            "gnss.speedD": 3.988,
+            "gnss.speedE": -3.542,
+            "gnss.speedN": -9.829,
+            "gnss.timestamp": 1725714353500
+        },
+        {
+            "gnss.altitude": 607.554,
+            "gnss.latitude": -54.7170046,
+            "gnss.longitude": -67.9755219,
+            "gnss.speedD": 4.039,
+            "gnss.speedE": -2.456,
+            "gnss.speedN": -9.851,
+            "gnss.timestamp": 1725714353600
+        },
+        {
+            "gnss.altitude": 607.259,
+            "gnss.latitude": -54.7170132,
+            "gnss.longitude": -67.9755218,
+            "gnss.speedD": 3.918,
+            "gnss.speedE": -0.376,
+            "gnss.speedN": -9.657,
+            "gnss.timestamp": 1725714353700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714353800,
+            "gnss.altitude": 607.254,
+            "gnss.latitude": -54.717022,
+            "gnss.longitude": -67.9755175,
+            "gnss.speedD": 3.501,
+            "gnss.speedE": 2.292,
+            "gnss.speedN": -9.375,
+            "gnss.timestamp": 1725714353800
+        },
+        {
+            "gnss.altitude": 606.986,
+            "gnss.latitude": -54.7170307,
+            "gnss.longitude": -67.9755131,
+            "gnss.speedD": 3.414,
+            "gnss.speedE": 2.828,
+            "gnss.speedN": -9.48,
+            "gnss.timestamp": 1725714353900
+        },
+        {
+            "gnss.altitude": 606.625,
+            "gnss.latitude": -54.7170395,
+            "gnss.longitude": -67.9755084,
+            "gnss.speedD": 3.438,
+            "gnss.speedE": 3.002,
+            "gnss.speedN": -9.762,
+            "gnss.timestamp": 1725714354000
+        },
+        {
+            "gnss.altitude": 606.138,
+            "gnss.latitude": -54.717048,
+            "gnss.longitude": -67.9755038,
+            "gnss.speedD": 3.597,
+            "gnss.speedE": 2.836,
+            "gnss.speedN": -9.767,
+            "gnss.timestamp": 1725714354100
+        },
+        {
+            "gnss.altitude": 605.521,
+            "gnss.latitude": -54.7170565,
+            "gnss.longitude": -67.9754997,
+            "gnss.speedD": 3.89,
+            "gnss.speedE": 2.506,
+            "gnss.speedN": -10.064,
+            "gnss.timestamp": 1725714354200
+        },
+        {
+            "gnss.altitude": 604.805,
+            "gnss.latitude": -54.7170647,
+            "gnss.longitude": -67.975496,
+            "gnss.speedD": 4.265,
+            "gnss.speedE": 2.106,
+            "gnss.speedN": -9.892,
+            "gnss.timestamp": 1725714354300
+        },
+        {
+            "gnss.altitude": 604.159,
+            "gnss.latitude": -54.7170734,
+            "gnss.longitude": -67.9754943,
+            "gnss.speedD": 4.528,
+            "gnss.speedE": 1.025,
+            "gnss.speedN": -10.1,
+            "gnss.timestamp": 1725714354400
+        },
+        {
+            "gnss.altitude": 603.678,
+            "gnss.latitude": -54.7170825,
+            "gnss.longitude": -67.9754959,
+            "gnss.speedD": 4.571,
+            "gnss.speedE": -0.77,
+            "gnss.speedN": -10.122,
+            "gnss.timestamp": 1725714354500
+        },
+        {
+            "gnss.altitude": 603.287,
+            "gnss.latitude": -54.7170912,
+            "gnss.longitude": -67.9755014,
+            "gnss.speedD": 4.498,
+            "gnss.speedE": -3.048,
+            "gnss.speedN": -9.579,
+            "gnss.timestamp": 1725714354600
+        },
+        {
+            "gnss.altitude": 602.998,
+            "gnss.latitude": -54.717099,
+            "gnss.longitude": -67.9755093,
+            "gnss.speedD": 4.301,
+            "gnss.speedE": -4.65,
+            "gnss.speedN": -8.535,
+            "gnss.timestamp": 1725714354700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714354800,
+            "gnss.altitude": 602.715,
+            "gnss.latitude": -54.7171073,
+            "gnss.longitude": -67.975519,
+            "gnss.speedD": 4.125,
+            "gnss.speedE": -5.892,
+            "gnss.speedN": -8.895,
+            "gnss.timestamp": 1725714354800
+        },
+        {
+            "gnss.altitude": 602.365,
+            "gnss.latitude": -54.7171156,
+            "gnss.longitude": -67.9755286,
+            "gnss.speedD": 4.048,
+            "gnss.speedE": -6.093,
+            "gnss.speedN": -9.039,
+            "gnss.timestamp": 1725714354900
+        },
+        {
+            "gnss.altitude": 601.884,
+            "gnss.latitude": -54.7171234,
+            "gnss.longitude": -67.975538,
+            "gnss.speedD": 4.146,
+            "gnss.speedE": -6.144,
+            "gnss.speedN": -8.894,
+            "gnss.timestamp": 1725714355000
+        },
+        {
+            "gnss.altitude": 601.336,
+            "gnss.latitude": -54.7171313,
+            "gnss.longitude": -67.975547,
+            "gnss.speedD": 4.324,
+            "gnss.speedE": -5.976,
+            "gnss.speedN": -9.04,
+            "gnss.timestamp": 1725714355100
+        },
+        {
+            "gnss.altitude": 600.699,
+            "gnss.latitude": -54.7171392,
+            "gnss.longitude": -67.9755561,
+            "gnss.speedD": 4.596,
+            "gnss.speedE": -6.011,
+            "gnss.speedN": -9.21,
+            "gnss.timestamp": 1725714355200
+        },
+        {
+            "gnss.altitude": 600.104,
+            "gnss.latitude": -54.7171481,
+            "gnss.longitude": -67.9755641,
+            "gnss.speedD": 4.784,
+            "gnss.speedE": -5.336,
+            "gnss.speedN": -10.023,
+            "gnss.timestamp": 1725714355300
+        },
+        {
+            "gnss.altitude": 599.573,
+            "gnss.latitude": -54.7171575,
+            "gnss.longitude": -67.9755685,
+            "gnss.speedD": 4.858,
+            "gnss.speedE": -3.151,
+            "gnss.speedN": -10.568,
+            "gnss.timestamp": 1725714355400
+        },
+        {
+            "gnss.altitude": 599.122,
+            "gnss.latitude": -54.7171671,
+            "gnss.longitude": -67.9755694,
+            "gnss.speedD": 4.813,
+            "gnss.speedE": -0.926,
+            "gnss.speedN": -10.766,
+            "gnss.timestamp": 1725714355500
+        },
+        {
+            "gnss.altitude": 598.765,
+            "gnss.latitude": -54.7171768,
+            "gnss.longitude": -67.9755688,
+            "gnss.speedD": 4.646,
+            "gnss.speedE": 0.316,
+            "gnss.speedN": -10.636,
+            "gnss.timestamp": 1725714355600
+        },
+        {
+            "gnss.altitude": 598.487,
+            "gnss.latitude": -54.7171873,
+            "gnss.longitude": -67.9755652,
+            "gnss.speedD": 4.401,
+            "gnss.speedE": 2.155,
+            "gnss.speedN": -11.261,
+            "gnss.timestamp": 1725714355700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714355800,
+            "gnss.altitude": 598.083,
+            "gnss.latitude": -54.7171974,
+            "gnss.longitude": -67.9755612,
+            "gnss.speedD": 4.355,
+            "gnss.speedE": 2.512,
+            "gnss.speedN": -11.145,
+            "gnss.timestamp": 1725714355800
+        },
+        {
+            "gnss.altitude": 597.575,
+            "gnss.latitude": -54.7172071,
+            "gnss.longitude": -67.9755577,
+            "gnss.speedD": 4.453,
+            "gnss.speedE": 2.279,
+            "gnss.speedN": -11.064,
+            "gnss.timestamp": 1725714355900
+        },
+        {
+            "gnss.altitude": 597.016,
+            "gnss.latitude": -54.7172172,
+            "gnss.longitude": -67.9755541,
+            "gnss.speedD": 4.607,
+            "gnss.speedE": 2.254,
+            "gnss.speedN": -11.354,
+            "gnss.timestamp": 1725714356000
+        },
+        {
+            "gnss.altitude": 596.404,
+            "gnss.latitude": -54.7172273,
+            "gnss.longitude": -67.9755515,
+            "gnss.speedD": 4.811,
+            "gnss.speedE": 1.661,
+            "gnss.speedN": -11.556,
+            "gnss.timestamp": 1725714356100
+        },
+        {
+            "gnss.altitude": 595.864,
+            "gnss.latitude": -54.7172373,
+            "gnss.longitude": -67.9755515,
+            "gnss.speedD": 4.892,
+            "gnss.speedE": 0.222,
+            "gnss.speedN": -11.279,
+            "gnss.timestamp": 1725714356200
+        },
+        {
+            "gnss.altitude": 595.469,
+            "gnss.latitude": -54.7172477,
+            "gnss.longitude": -67.9755552,
+            "gnss.speedD": 4.776,
+            "gnss.speedE": -1.94,
+            "gnss.speedN": -11.329,
+            "gnss.timestamp": 1725714356300
+        },
+        {
+            "gnss.altitude": 595.153,
+            "gnss.latitude": -54.7172573,
+            "gnss.longitude": -67.9755614,
+            "gnss.speedD": 4.567,
+            "gnss.speedE": -3.56,
+            "gnss.speedN": -10.465,
+            "gnss.timestamp": 1725714356400
+        },
+        {
+            "gnss.altitude": 594.929,
+            "gnss.latitude": -54.7172672,
+            "gnss.longitude": -67.9755703,
+            "gnss.speedD": 4.267,
+            "gnss.speedE": -5.249,
+            "gnss.speedN": -10.476,
+            "gnss.timestamp": 1725714356500
+        },
+        {
+            "gnss.altitude": 594.631,
+            "gnss.latitude": -54.7172767,
+            "gnss.longitude": -67.9755804,
+            "gnss.speedD": 4.1,
+            "gnss.speedE": -6.246,
+            "gnss.speedN": -10.259,
+            "gnss.timestamp": 1725714356600
+        },
+        {
+            "gnss.altitude": 594.28,
+            "gnss.latitude": -54.7172862,
+            "gnss.longitude": -67.9755902,
+            "gnss.speedD": 4.025,
+            "gnss.speedE": -6.277,
+            "gnss.speedN": -10.434,
+            "gnss.timestamp": 1725714356700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714356800,
+            "gnss.altitude": 593.764,
+            "gnss.latitude": -54.7172952,
+            "gnss.longitude": -67.9755994,
+            "gnss.speedD": 4.172,
+            "gnss.speedE": -6.077,
+            "gnss.speedN": -10.294,
+            "gnss.timestamp": 1725714356800
+        },
+        {
+            "gnss.altitude": 593.13,
+            "gnss.latitude": -54.7173043,
+            "gnss.longitude": -67.9756089,
+            "gnss.speedD": 4.459,
+            "gnss.speedE": -6.231,
+            "gnss.speedN": -10.588,
+            "gnss.timestamp": 1725714356900
+        },
+        {
+            "gnss.altitude": 592.688,
+            "gnss.latitude": -54.7173143,
+            "gnss.longitude": -67.9756169,
+            "gnss.speedD": 4.455,
+            "gnss.speedE": -5.294,
+            "gnss.speedN": -11.031,
+            "gnss.timestamp": 1725714357000
+        },
+        {
+            "gnss.altitude": 592.328,
+            "gnss.latitude": -54.7173242,
+            "gnss.longitude": -67.9756227,
+            "gnss.speedD": 4.339,
+            "gnss.speedE": -3.923,
+            "gnss.speedN": -10.969,
+            "gnss.timestamp": 1725714357100
+        },
+        {
+            "gnss.altitude": 592.116,
+            "gnss.latitude": -54.7173348,
+            "gnss.longitude": -67.9756261,
+            "gnss.speedD": 4.047,
+            "gnss.speedE": -2.242,
+            "gnss.speedN": -11.425,
+            "gnss.timestamp": 1725714357200
+        },
+        {
+            "gnss.altitude": 591.974,
+            "gnss.latitude": -54.7173457,
+            "gnss.longitude": -67.9756275,
+            "gnss.speedD": 3.704,
+            "gnss.speedE": -0.946,
+            "gnss.speedN": -11.583,
+            "gnss.timestamp": 1725714357300
+        },
+        {
+            "gnss.altitude": 591.783,
+            "gnss.latitude": -54.7173566,
+            "gnss.longitude": -67.9756284,
+            "gnss.speedD": 3.471,
+            "gnss.speedE": -0.568,
+            "gnss.speedN": -11.78,
+            "gnss.timestamp": 1725714357400
+        },
+        {
+            "gnss.altitude": 591.502,
+            "gnss.latitude": -54.7173673,
+            "gnss.longitude": -67.9756293,
+            "gnss.speedD": 3.387,
+            "gnss.speedE": -0.516,
+            "gnss.speedN": -11.819,
+            "gnss.timestamp": 1725714357500
+        },
+        {
+            "gnss.altitude": 591.142,
+            "gnss.latitude": -54.7173779,
+            "gnss.longitude": -67.9756302,
+            "gnss.speedD": 3.419,
+            "gnss.speedE": -0.629,
+            "gnss.speedN": -11.812,
+            "gnss.timestamp": 1725714357600
+        },
+        {
+            "gnss.altitude": 590.659,
+            "gnss.latitude": -54.7173885,
+            "gnss.longitude": -67.975631,
+            "gnss.speedD": 3.608,
+            "gnss.speedE": -0.625,
+            "gnss.speedN": -12.01,
+            "gnss.timestamp": 1725714357700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714357800,
+            "gnss.altitude": 590.231,
+            "gnss.latitude": -54.7173989,
+            "gnss.longitude": -67.9756334,
+            "gnss.speedD": 3.7,
+            "gnss.speedE": -1.5,
+            "gnss.speedN": -11.747,
+            "gnss.timestamp": 1725714357800
+        },
+        {
+            "gnss.altitude": 590.049,
+            "gnss.latitude": -54.7174089,
+            "gnss.longitude": -67.9756394,
+            "gnss.speedD": 3.449,
+            "gnss.speedE": -3.462,
+            "gnss.speedN": -11.001,
+            "gnss.timestamp": 1725714357900
+        },
+        {
+            "gnss.altitude": 589.891,
+            "gnss.latitude": -54.7174184,
+            "gnss.longitude": -67.9756476,
+            "gnss.speedD": 3.193,
+            "gnss.speedE": -4.921,
+            "gnss.speedN": -10.281,
+            "gnss.timestamp": 1725714358000
+        },
+        {
+            "gnss.altitude": 589.73,
+            "gnss.latitude": -54.7174276,
+            "gnss.longitude": -67.975657,
+            "gnss.speedD": 2.978,
+            "gnss.speedE": -5.77,
+            "gnss.speedN": -10.041,
+            "gnss.timestamp": 1725714358100
+        },
+        {
+            "gnss.altitude": 589.432,
+            "gnss.latitude": -54.7174368,
+            "gnss.longitude": -67.9756661,
+            "gnss.speedD": 2.98,
+            "gnss.speedE": -5.876,
+            "gnss.speedN": -10.209,
+            "gnss.timestamp": 1725714358200
+        },
+        {
+            "gnss.altitude": 589.088,
+            "gnss.latitude": -54.7174457,
+            "gnss.longitude": -67.9756749,
+            "gnss.speedD": 3.043,
+            "gnss.speedE": -5.695,
+            "gnss.speedN": -10.1,
+            "gnss.timestamp": 1725714358300
+        },
+        {
+            "gnss.altitude": 588.706,
+            "gnss.latitude": -54.7174549,
+            "gnss.longitude": -67.9756829,
+            "gnss.speedD": 3.153,
+            "gnss.speedE": -5.283,
+            "gnss.speedN": -10.278,
+            "gnss.timestamp": 1725714358400
+        },
+        {
+            "gnss.altitude": 588.267,
+            "gnss.latitude": -54.7174638,
+            "gnss.longitude": -67.97569,
+            "gnss.speedD": 3.326,
+            "gnss.speedE": -4.733,
+            "gnss.speedN": -10.265,
+            "gnss.timestamp": 1725714358500
+        },
+        {
+            "gnss.altitude": 587.888,
+            "gnss.latitude": -54.7174734,
+            "gnss.longitude": -67.9756957,
+            "gnss.speedD": 3.393,
+            "gnss.speedE": -3.787,
+            "gnss.speedN": -10.682,
+            "gnss.timestamp": 1725714358600
+        },
+        {
+            "gnss.altitude": 587.543,
+            "gnss.latitude": -54.7174832,
+            "gnss.longitude": -67.9756985,
+            "gnss.speedD": 3.404,
+            "gnss.speedE": -2.051,
+            "gnss.speedN": -10.94,
+            "gnss.timestamp": 1725714358700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714358800,
+            "gnss.altitude": 587.136,
+            "gnss.latitude": -54.7174921,
+            "gnss.longitude": -67.9757009,
+            "gnss.speedD": 3.495,
+            "gnss.speedE": -1.684,
+            "gnss.speedN": -10.315,
+            "gnss.timestamp": 1725714358800
+        },
+        {
+            "gnss.altitude": 586.735,
+            "gnss.latitude": -54.7175016,
+            "gnss.longitude": -67.9757032,
+            "gnss.speedD": 3.572,
+            "gnss.speedE": -1.478,
+            "gnss.speedN": -10.65,
+            "gnss.timestamp": 1725714358900
+        },
+        {
+            "gnss.altitude": 586.254,
+            "gnss.latitude": -54.7175113,
+            "gnss.longitude": -67.9757054,
+            "gnss.speedD": 3.747,
+            "gnss.speedE": -1.415,
+            "gnss.speedN": -10.896,
+            "gnss.timestamp": 1725714359000
+        },
+        {
+            "gnss.altitude": 585.804,
+            "gnss.latitude": -54.7175212,
+            "gnss.longitude": -67.9757061,
+            "gnss.speedD": 3.855,
+            "gnss.speedE": -0.621,
+            "gnss.speedN": -11.202,
+            "gnss.timestamp": 1725714359100
+        },
+        {
+            "gnss.altitude": 585.484,
+            "gnss.latitude": -54.7175304,
+            "gnss.longitude": -67.9757031,
+            "gnss.speedD": 3.762,
+            "gnss.speedE": 1.35,
+            "gnss.speedN": -10.57,
+            "gnss.timestamp": 1725714359200
+        },
+        {
+            "gnss.altitude": 585.187,
+            "gnss.latitude": -54.7175398,
+            "gnss.longitude": -67.9756979,
+            "gnss.speedD": 3.655,
+            "gnss.speedE": 2.924,
+            "gnss.speedN": -10.544,
+            "gnss.timestamp": 1725714359300
+        },
+        {
+            "gnss.altitude": 584.818,
+            "gnss.latitude": -54.7175491,
+            "gnss.longitude": -67.975693,
+            "gnss.speedD": 3.66,
+            "gnss.speedE": 3.108,
+            "gnss.speedN": -10.437,
+            "gnss.timestamp": 1725714359400
+        },
+        {
+            "gnss.altitude": 584.407,
+            "gnss.latitude": -54.7175586,
+            "gnss.longitude": -67.9756882,
+            "gnss.speedD": 3.723,
+            "gnss.speedE": 3.076,
+            "gnss.speedN": -10.63,
+            "gnss.timestamp": 1725714359500
+        },
+        {
+            "gnss.altitude": 583.898,
+            "gnss.latitude": -54.7175681,
+            "gnss.longitude": -67.975683,
+            "gnss.speedD": 3.901,
+            "gnss.speedE": 3.27,
+            "gnss.speedN": -10.775,
+            "gnss.timestamp": 1725714359600
+        },
+        {
+            "gnss.altitude": 583.309,
+            "gnss.latitude": -54.7175774,
+            "gnss.longitude": -67.9756783,
+            "gnss.speedD": 4.157,
+            "gnss.speedE": 2.939,
+            "gnss.speedN": -10.715,
+            "gnss.timestamp": 1725714359700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714359800,
+            "gnss.altitude": 582.552,
+            "gnss.latitude": -54.7175856,
+            "gnss.longitude": -67.9756742,
+            "gnss.speedD": 4.584,
+            "gnss.speedE": 2.516,
+            "gnss.speedN": -9.981,
+            "gnss.timestamp": 1725714359800
+        },
+        {
+            "gnss.altitude": 582.176,
+            "gnss.latitude": -54.7175949,
+            "gnss.longitude": -67.9756732,
+            "gnss.speedD": 4.492,
+            "gnss.speedE": 0.935,
+            "gnss.speedN": -10.106,
+            "gnss.timestamp": 1725714359900
+        },
+        {
+            "gnss.altitude": 581.813,
+            "gnss.latitude": -54.7176039,
+            "gnss.longitude": -67.9756759,
+            "gnss.speedD": 4.393,
+            "gnss.speedE": -1.317,
+            "gnss.speedN": -9.898,
+            "gnss.timestamp": 1725714360000
+        },
+        {
+            "gnss.altitude": 581.525,
+            "gnss.latitude": -54.7176123,
+            "gnss.longitude": -67.9756803,
+            "gnss.speedD": 4.206,
+            "gnss.speedE": -2.535,
+            "gnss.speedN": -9.202,
+            "gnss.timestamp": 1725714360100
+        },
+        {
+            "gnss.altitude": 581.473,
+            "gnss.latitude": -54.7176212,
+            "gnss.longitude": -67.9756879,
+            "gnss.speedD": 3.746,
+            "gnss.speedE": -4.293,
+            "gnss.speedN": -9.108,
+            "gnss.timestamp": 1725714360200
+        },
+        {
+            "gnss.altitude": 581.239,
+            "gnss.latitude": -54.7176293,
+            "gnss.longitude": -67.9756959,
+            "gnss.speedD": 3.567,
+            "gnss.speedE": -4.996,
+            "gnss.speedN": -8.73,
+            "gnss.timestamp": 1725714360300
+        },
+        {
+            "gnss.altitude": 580.922,
+            "gnss.latitude": -54.7176377,
+            "gnss.longitude": -67.9757033,
+            "gnss.speedD": 3.518,
+            "gnss.speedE": -4.685,
+            "gnss.speedN": -9.207,
+            "gnss.timestamp": 1725714360400
+        },
+        {
+            "gnss.altitude": 580.51,
+            "gnss.latitude": -54.7176459,
+            "gnss.longitude": -67.9757111,
+            "gnss.speedD": 3.601,
+            "gnss.speedE": -5.061,
+            "gnss.speedN": -9.28,
+            "gnss.timestamp": 1725714360500
+        },
+        {
+            "gnss.altitude": 580.029,
+            "gnss.latitude": -54.717654,
+            "gnss.longitude": -67.975719,
+            "gnss.speedD": 3.763,
+            "gnss.speedE": -5.161,
+            "gnss.speedN": -9.255,
+            "gnss.timestamp": 1725714360600
+        },
+        {
+            "gnss.altitude": 579.488,
+            "gnss.latitude": -54.7176623,
+            "gnss.longitude": -67.9757263,
+            "gnss.speedD": 3.987,
+            "gnss.speedE": -4.907,
+            "gnss.speedN": -9.567,
+            "gnss.timestamp": 1725714360700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714360800,
+            "gnss.altitude": 578.921,
+            "gnss.latitude": -54.7176709,
+            "gnss.longitude": -67.9757322,
+            "gnss.speedD": 4.215,
+            "gnss.speedE": -4.042,
+            "gnss.speedN": -9.889,
+            "gnss.timestamp": 1725714360800
+        },
+        {
+            "gnss.altitude": 578.448,
+            "gnss.latitude": -54.7176794,
+            "gnss.longitude": -67.975735,
+            "gnss.speedD": 4.282,
+            "gnss.speedE": -2.088,
+            "gnss.speedN": -9.765,
+            "gnss.timestamp": 1725714360900
+        },
+        {
+            "gnss.altitude": 578.098,
+            "gnss.latitude": -54.7176879,
+            "gnss.longitude": -67.975737,
+            "gnss.speedD": 4.177,
+            "gnss.speedE": -1.394,
+            "gnss.speedN": -9.424,
+            "gnss.timestamp": 1725714361000
+        },
+        {
+            "gnss.altitude": 577.79,
+            "gnss.latitude": -54.7176966,
+            "gnss.longitude": -67.9757357,
+            "gnss.speedD": 4.031,
+            "gnss.speedE": 0.562,
+            "gnss.speedN": -9.595,
+            "gnss.timestamp": 1725714361100
+        },
+        {
+            "gnss.altitude": 577.517,
+            "gnss.latitude": -54.7177054,
+            "gnss.longitude": -67.9757314,
+            "gnss.speedD": 3.859,
+            "gnss.speedE": 2.498,
+            "gnss.speedN": -9.712,
+            "gnss.timestamp": 1725714361200
+        },
+        {
+            "gnss.altitude": 577.166,
+            "gnss.latitude": -54.7177141,
+            "gnss.longitude": -67.9757278,
+            "gnss.speedD": 3.814,
+            "gnss.speedE": 2.359,
+            "gnss.speedN": -9.615,
+            "gnss.timestamp": 1725714361300
+        },
+        {
+            "gnss.altitude": 576.791,
+            "gnss.latitude": -54.7177227,
+            "gnss.longitude": -67.975724,
+            "gnss.speedD": 3.807,
+            "gnss.speedE": 2.445,
+            "gnss.speedN": -9.609,
+            "gnss.timestamp": 1725714361400
+        },
+        {
+            "gnss.altitude": 576.323,
+            "gnss.latitude": -54.7177315,
+            "gnss.longitude": -67.9757202,
+            "gnss.speedD": 3.926,
+            "gnss.speedE": 2.405,
+            "gnss.speedN": -9.9,
+            "gnss.timestamp": 1725714361500
+        },
+        {
+            "gnss.altitude": 575.714,
+            "gnss.latitude": -54.7177402,
+            "gnss.longitude": -67.9757171,
+            "gnss.speedD": 4.221,
+            "gnss.speedE": 1.962,
+            "gnss.speedN": -10.163,
+            "gnss.timestamp": 1725714361600
+        },
+        {
+            "gnss.altitude": 575.083,
+            "gnss.latitude": -54.7177487,
+            "gnss.longitude": -67.9757148,
+            "gnss.speedD": 4.502,
+            "gnss.speedE": 1.386,
+            "gnss.speedN": -9.923,
+            "gnss.timestamp": 1725714361700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714361800,
+            "gnss.altitude": 574.639,
+            "gnss.latitude": -54.7177576,
+            "gnss.longitude": -67.9757156,
+            "gnss.speedD": 4.503,
+            "gnss.speedE": -0.261,
+            "gnss.speedN": -9.843,
+            "gnss.timestamp": 1725714361800
+        },
+        {
+            "gnss.altitude": 574.22,
+            "gnss.latitude": -54.7177655,
+            "gnss.longitude": -67.9757193,
+            "gnss.speedD": 4.465,
+            "gnss.speedE": -2.046,
+            "gnss.speedN": -8.91,
+            "gnss.timestamp": 1725714361900
+        },
+        {
+            "gnss.altitude": 574.007,
+            "gnss.latitude": -54.7177733,
+            "gnss.longitude": -67.975726,
+            "gnss.speedD": 4.156,
+            "gnss.speedE": -3.81,
+            "gnss.speedN": -8.252,
+            "gnss.timestamp": 1725714362000
+        },
+        {
+            "gnss.altitude": 573.806,
+            "gnss.latitude": -54.7177818,
+            "gnss.longitude": -67.9757342,
+            "gnss.speedD": 3.878,
+            "gnss.speedE": -4.902,
+            "gnss.speedN": -8.801,
+            "gnss.timestamp": 1725714362100
+        },
+        {
+            "gnss.altitude": 573.432,
+            "gnss.latitude": -54.7177901,
+            "gnss.longitude": -67.9757413,
+            "gnss.speedD": 3.867,
+            "gnss.speedE": -4.623,
+            "gnss.speedN": -9.152,
+            "gnss.timestamp": 1725714362200
+        },
+        {
+            "gnss.altitude": 572.983,
+            "gnss.latitude": -54.7177983,
+            "gnss.longitude": -67.9757483,
+            "gnss.speedD": 3.952,
+            "gnss.speedE": -4.55,
+            "gnss.speedN": -9.265,
+            "gnss.timestamp": 1725714362300
+        },
+        {
+            "gnss.altitude": 572.51,
+            "gnss.latitude": -54.7178069,
+            "gnss.longitude": -67.9757555,
+            "gnss.speedD": 4.061,
+            "gnss.speedE": -4.661,
+            "gnss.speedN": -9.663,
+            "gnss.timestamp": 1725714362400
+        },
+        {
+            "gnss.altitude": 572.041,
+            "gnss.latitude": -54.7178154,
+            "gnss.longitude": -67.9757617,
+            "gnss.speedD": 4.147,
+            "gnss.speedE": -4.12,
+            "gnss.speedN": -9.684,
+            "gnss.timestamp": 1725714362500
+        },
+        {
+            "gnss.altitude": 571.505,
+            "gnss.latitude": -54.7178243,
+            "gnss.longitude": -67.9757673,
+            "gnss.speedD": 4.318,
+            "gnss.speedE": -3.718,
+            "gnss.speedN": -10.124,
+            "gnss.timestamp": 1725714362600
+        },
+        {
+            "gnss.altitude": 571.092,
+            "gnss.latitude": -54.7178334,
+            "gnss.longitude": -67.9757698,
+            "gnss.speedD": 4.294,
+            "gnss.speedE": -1.907,
+            "gnss.speedN": -10.194,
+            "gnss.timestamp": 1725714362700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714362800,
+            "gnss.altitude": 570.864,
+            "gnss.latitude": -54.7178423,
+            "gnss.longitude": -67.9757698,
+            "gnss.speedD": 4.023,
+            "gnss.speedE": -0.141,
+            "gnss.speedN": -9.643,
+            "gnss.timestamp": 1725714362800
+        },
+        {
+            "gnss.altitude": 570.584,
+            "gnss.latitude": -54.7178514,
+            "gnss.longitude": -67.9757677,
+            "gnss.speedD": 3.864,
+            "gnss.speedE": 1.227,
+            "gnss.speedN": -9.828,
+            "gnss.timestamp": 1725714362900
+        },
+        {
+            "gnss.altitude": 570.274,
+            "gnss.latitude": -54.7178604,
+            "gnss.longitude": -67.9757646,
+            "gnss.speedD": 3.767,
+            "gnss.speedE": 1.905,
+            "gnss.speedN": -9.947,
+            "gnss.timestamp": 1725714363000
+        },
+        {
+            "gnss.altitude": 569.919,
+            "gnss.latitude": -54.7178697,
+            "gnss.longitude": -67.9757616,
+            "gnss.speedD": 3.746,
+            "gnss.speedE": 1.992,
+            "gnss.speedN": -10.204,
+            "gnss.timestamp": 1725714363100
+        },
+        {
+            "gnss.altitude": 569.39,
+            "gnss.latitude": -54.7178785,
+            "gnss.longitude": -67.9757586,
+            "gnss.speedD": 3.954,
+            "gnss.speedE": 1.851,
+            "gnss.speedN": -10.148,
+            "gnss.timestamp": 1725714363200
+        },
+        {
+            "gnss.altitude": 568.854,
+            "gnss.latitude": -54.7178876,
+            "gnss.longitude": -67.9757554,
+            "gnss.speedD": 4.145,
+            "gnss.speedE": 1.914,
+            "gnss.speedN": -10.456,
+            "gnss.timestamp": 1725714363300
+        },
+        {
+            "gnss.altitude": 568.277,
+            "gnss.latitude": -54.7178961,
+            "gnss.longitude": -67.975753,
+            "gnss.speedD": 4.363,
+            "gnss.speedE": 1.484,
+            "gnss.speedN": -9.886,
+            "gnss.timestamp": 1725714363400
+        },
+        {
+            "gnss.altitude": 567.65,
+            "gnss.latitude": -54.7179044,
+            "gnss.longitude": -67.9757515,
+            "gnss.speedD": 4.624,
+            "gnss.speedE": 0.931,
+            "gnss.speedN": -9.674,
+            "gnss.timestamp": 1725714363500
+        },
+        {
+            "gnss.altitude": 567.193,
+            "gnss.latitude": -54.7179126,
+            "gnss.longitude": -67.9757533,
+            "gnss.speedD": 4.623,
+            "gnss.speedE": -0.849,
+            "gnss.speedN": -9.243,
+            "gnss.timestamp": 1725714363600
+        },
+        {
+            "gnss.altitude": 566.85,
+            "gnss.latitude": -54.7179198,
+            "gnss.longitude": -67.9757558,
+            "gnss.speedD": 4.464,
+            "gnss.speedE": -1.452,
+            "gnss.speedN": -7.98,
+            "gnss.timestamp": 1725714363700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714363800,
+            "gnss.altitude": 566.469,
+            "gnss.latitude": -54.7179264,
+            "gnss.longitude": -67.9757615,
+            "gnss.speedD": 4.382,
+            "gnss.speedE": -3.342,
+            "gnss.speedN": -7.307,
+            "gnss.timestamp": 1725714363800
+        },
+        {
+            "gnss.altitude": 566.158,
+            "gnss.latitude": -54.7179329,
+            "gnss.longitude": -67.9757691,
+            "gnss.speedD": 4.217,
+            "gnss.speedE": -4.539,
+            "gnss.speedN": -6.978,
+            "gnss.timestamp": 1725714363900
+        },
+        {
+            "gnss.altitude": 565.826,
+            "gnss.latitude": -54.7179397,
+            "gnss.longitude": -67.9757767,
+            "gnss.speedD": 4.105,
+            "gnss.speedE": -4.759,
+            "gnss.speedN": -7.297,
+            "gnss.timestamp": 1725714364000
+        },
+        {
+            "gnss.altitude": 565.497,
+            "gnss.latitude": -54.7179462,
+            "gnss.longitude": -67.9757842,
+            "gnss.speedD": 4.001,
+            "gnss.speedE": -4.801,
+            "gnss.speedN": -7.133,
+            "gnss.timestamp": 1725714364100
+        },
+        {
+            "gnss.altitude": 565.126,
+            "gnss.latitude": -54.7179529,
+            "gnss.longitude": -67.9757922,
+            "gnss.speedD": 3.97,
+            "gnss.speedE": -5.021,
+            "gnss.speedN": -7.295,
+            "gnss.timestamp": 1725714364200
+        },
+        {
+            "gnss.altitude": 564.713,
+            "gnss.latitude": -54.7179598,
+            "gnss.longitude": -67.9758,
+            "gnss.speedD": 3.998,
+            "gnss.speedE": -5.014,
+            "gnss.speedN": -7.599,
+            "gnss.timestamp": 1725714364300
+        },
+        {
+            "gnss.altitude": 564.164,
+            "gnss.latitude": -54.7179666,
+            "gnss.longitude": -67.9758083,
+            "gnss.speedD": 4.188,
+            "gnss.speedE": -5.355,
+            "gnss.speedN": -7.821,
+            "gnss.timestamp": 1725714364400
+        },
+        {
+            "gnss.altitude": 563.687,
+            "gnss.latitude": -54.7179741,
+            "gnss.longitude": -67.9758141,
+            "gnss.speedD": 4.266,
+            "gnss.speedE": -4.051,
+            "gnss.speedN": -8.448,
+            "gnss.timestamp": 1725714364500
+        },
+        {
+            "gnss.altitude": 563.279,
+            "gnss.latitude": -54.7179813,
+            "gnss.longitude": -67.9758169,
+            "gnss.speedD": 4.246,
+            "gnss.speedE": -2.344,
+            "gnss.speedN": -8.203,
+            "gnss.timestamp": 1725714364600
+        },
+        {
+            "gnss.altitude": 562.93,
+            "gnss.latitude": -54.7179889,
+            "gnss.longitude": -67.9758167,
+            "gnss.speedD": 4.161,
+            "gnss.speedE": -0.378,
+            "gnss.speedN": -8.427,
+            "gnss.timestamp": 1725714364700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714364800,
+            "gnss.altitude": 562.657,
+            "gnss.latitude": -54.7179969,
+            "gnss.longitude": -67.9758125,
+            "gnss.speedD": 4.001,
+            "gnss.speedE": 2.102,
+            "gnss.speedN": -8.67,
+            "gnss.timestamp": 1725714364800
+        },
+        {
+            "gnss.altitude": 562.372,
+            "gnss.latitude": -54.7180045,
+            "gnss.longitude": -67.9758068,
+            "gnss.speedD": 3.872,
+            "gnss.speedE": 3.347,
+            "gnss.speedN": -8.403,
+            "gnss.timestamp": 1725714364900
+        },
+        {
+            "gnss.altitude": 561.976,
+            "gnss.latitude": -54.7180117,
+            "gnss.longitude": -67.9758014,
+            "gnss.speedD": 3.885,
+            "gnss.speedE": 3.437,
+            "gnss.speedN": -8.215,
+            "gnss.timestamp": 1725714365000
+        },
+        {
+            "gnss.altitude": 561.486,
+            "gnss.latitude": -54.7180193,
+            "gnss.longitude": -67.9757967,
+            "gnss.speedD": 4.005,
+            "gnss.speedE": 3.102,
+            "gnss.speedN": -8.501,
+            "gnss.timestamp": 1725714365100
+        },
+        {
+            "gnss.altitude": 561.004,
+            "gnss.latitude": -54.718027,
+            "gnss.longitude": -67.9757915,
+            "gnss.speedD": 4.1,
+            "gnss.speedE": 3.296,
+            "gnss.speedN": -8.786,
+            "gnss.timestamp": 1725714365200
+        },
+        {
+            "gnss.altitude": 560.429,
+            "gnss.latitude": -54.7180348,
+            "gnss.longitude": -67.9757868,
+            "gnss.speedD": 4.286,
+            "gnss.speedE": 3.055,
+            "gnss.speedN": -8.985,
+            "gnss.timestamp": 1725714365300
+        },
+        {
+            "gnss.altitude": 559.713,
+            "gnss.latitude": -54.7180425,
+            "gnss.longitude": -67.9757834,
+            "gnss.speedD": 4.604,
+            "gnss.speedE": 2.231,
+            "gnss.speedN": -9.161,
+            "gnss.timestamp": 1725714365400
+        },
+        {
+            "gnss.altitude": 559.15,
+            "gnss.latitude": -54.7180496,
+            "gnss.longitude": -67.9757826,
+            "gnss.speedD": 4.713,
+            "gnss.speedE": 0.74,
+            "gnss.speedN": -8.29,
+            "gnss.timestamp": 1725714365500
+        },
+        {
+            "gnss.altitude": 558.778,
+            "gnss.latitude": -54.7180573,
+            "gnss.longitude": -67.9757858,
+            "gnss.speedD": 4.614,
+            "gnss.speedE": -1.414,
+            "gnss.speedN": -8.196,
+            "gnss.timestamp": 1725714365600
+        },
+        {
+            "gnss.altitude": 558.394,
+            "gnss.latitude": -54.7180647,
+            "gnss.longitude": -67.9757896,
+            "gnss.speedD": 4.535,
+            "gnss.speedE": -2.185,
+            "gnss.speedN": -8.032,
+            "gnss.timestamp": 1725714365700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714365800,
+            "gnss.altitude": 558.152,
+            "gnss.latitude": -54.7180716,
+            "gnss.longitude": -67.9757977,
+            "gnss.speedD": 4.315,
+            "gnss.speedE": -4.431,
+            "gnss.speedN": -7.369,
+            "gnss.timestamp": 1725714365800
+        },
+        {
+            "gnss.altitude": 557.988,
+            "gnss.latitude": -54.7180783,
+            "gnss.longitude": -67.9758063,
+            "gnss.speedD": 4.033,
+            "gnss.speedE": -5.236,
+            "gnss.speedN": -6.877,
+            "gnss.timestamp": 1725714365900
+        },
+        {
+            "gnss.altitude": 557.65,
+            "gnss.latitude": -54.718085,
+            "gnss.longitude": -67.9758147,
+            "gnss.speedD": 3.97,
+            "gnss.speedE": -5.276,
+            "gnss.speedN": -7.2,
+            "gnss.timestamp": 1725714366000
+        },
+        {
+            "gnss.altitude": 557.245,
+            "gnss.latitude": -54.7180914,
+            "gnss.longitude": -67.9758235,
+            "gnss.speedD": 3.982,
+            "gnss.speedE": -5.61,
+            "gnss.speedN": -7.18,
+            "gnss.timestamp": 1725714366100
+        },
+        {
+            "gnss.altitude": 556.812,
+            "gnss.latitude": -54.718098,
+            "gnss.longitude": -67.9758318,
+            "gnss.speedD": 4.025,
+            "gnss.speedE": -5.406,
+            "gnss.speedN": -7.342,
+            "gnss.timestamp": 1725714366200
+        },
+        {
+            "gnss.altitude": 556.258,
+            "gnss.latitude": -54.7181051,
+            "gnss.longitude": -67.9758397,
+            "gnss.speedD": 4.194,
+            "gnss.speedE": -5.157,
+            "gnss.speedN": -8.029,
+            "gnss.timestamp": 1725714366300
+        },
+        {
+            "gnss.altitude": 555.722,
+            "gnss.latitude": -54.718113,
+            "gnss.longitude": -67.9758458,
+            "gnss.speedD": 4.326,
+            "gnss.speedE": -4.158,
+            "gnss.speedN": -8.804,
+            "gnss.timestamp": 1725714366400
+        },
+        {
+            "gnss.altitude": 555.227,
+            "gnss.latitude": -54.7181212,
+            "gnss.longitude": -67.9758499,
+            "gnss.speedD": 4.399,
+            "gnss.speedE": -2.944,
+            "gnss.speedN": -9.284,
+            "gnss.timestamp": 1725714366500
+        },
+        {
+            "gnss.altitude": 554.851,
+            "gnss.latitude": -54.7181303,
+            "gnss.longitude": -67.9758498,
+            "gnss.speedD": 4.341,
+            "gnss.speedE": -0.466,
+            "gnss.speedN": -9.906,
+            "gnss.timestamp": 1725714366600
+        },
+        {
+            "gnss.altitude": 554.546,
+            "gnss.latitude": -54.7181394,
+            "gnss.longitude": -67.9758476,
+            "gnss.speedD": 4.21,
+            "gnss.speedE": 1.054,
+            "gnss.speedN": -9.901,
+            "gnss.timestamp": 1725714366700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714366800,
+            "gnss.altitude": 554.117,
+            "gnss.latitude": -54.7181486,
+            "gnss.longitude": -67.9758445,
+            "gnss.speedD": 4.225,
+            "gnss.speedE": 1.89,
+            "gnss.speedN": -10.293,
+            "gnss.timestamp": 1725714366800
+        },
+        {
+            "gnss.altitude": 553.656,
+            "gnss.latitude": -54.7181579,
+            "gnss.longitude": -67.9758414,
+            "gnss.speedD": 4.27,
+            "gnss.speedE": 1.968,
+            "gnss.speedN": -10.391,
+            "gnss.timestamp": 1725714366900
+        },
+        {
+            "gnss.altitude": 553.101,
+            "gnss.latitude": -54.7181669,
+            "gnss.longitude": -67.9758384,
+            "gnss.speedD": 4.406,
+            "gnss.speedE": 1.906,
+            "gnss.speedN": -10.387,
+            "gnss.timestamp": 1725714367000
+        },
+        {
+            "gnss.altitude": 552.434,
+            "gnss.latitude": -54.7181761,
+            "gnss.longitude": -67.9758361,
+            "gnss.speedD": 4.645,
+            "gnss.speedE": 1.527,
+            "gnss.speedN": -10.631,
+            "gnss.timestamp": 1725714367100
+        },
+        {
+            "gnss.altitude": 551.812,
+            "gnss.latitude": -54.7181857,
+            "gnss.longitude": -67.9758354,
+            "gnss.speedD": 4.817,
+            "gnss.speedE": 0.609,
+            "gnss.speedN": -10.951,
+            "gnss.timestamp": 1725714367200
+        },
+        {
+            "gnss.altitude": 551.28,
+            "gnss.latitude": -54.7181957,
+            "gnss.longitude": -67.9758373,
+            "gnss.speedD": 4.876,
+            "gnss.speedE": -0.771,
+            "gnss.speedN": -11.109,
+            "gnss.timestamp": 1725714367300
+        },
+        {
+            "gnss.altitude": 550.829,
+            "gnss.latitude": -54.7182058,
+            "gnss.longitude": -67.9758418,
+            "gnss.speedD": 4.846,
+            "gnss.speedE": -2.413,
+            "gnss.speedN": -11.072,
+            "gnss.timestamp": 1725714367400
+        },
+        {
+            "gnss.altitude": 550.43,
+            "gnss.latitude": -54.7182162,
+            "gnss.longitude": -67.9758485,
+            "gnss.speedD": 4.765,
+            "gnss.speedE": -3.869,
+            "gnss.speedN": -11.109,
+            "gnss.timestamp": 1725714367500
+        },
+        {
+            "gnss.altitude": 550.057,
+            "gnss.latitude": -54.7182266,
+            "gnss.longitude": -67.9758568,
+            "gnss.speedD": 4.665,
+            "gnss.speedE": -4.99,
+            "gnss.speedN": -11.221,
+            "gnss.timestamp": 1725714367600
+        },
+        {
+            "gnss.altitude": 549.542,
+            "gnss.latitude": -54.7182365,
+            "gnss.longitude": -67.9758648,
+            "gnss.speedD": 4.718,
+            "gnss.speedE": -5.161,
+            "gnss.speedN": -11.115,
+            "gnss.timestamp": 1725714367700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714367800,
+            "gnss.altitude": 548.915,
+            "gnss.latitude": -54.7182462,
+            "gnss.longitude": -67.9758724,
+            "gnss.speedD": 4.883,
+            "gnss.speedE": -5.007,
+            "gnss.speedN": -11.211,
+            "gnss.timestamp": 1725714367800
+        },
+        {
+            "gnss.altitude": 548.359,
+            "gnss.latitude": -54.7182568,
+            "gnss.longitude": -67.975879,
+            "gnss.speedD": 4.96,
+            "gnss.speedE": -4.41,
+            "gnss.speedN": -11.818,
+            "gnss.timestamp": 1725714367900
+        },
+        {
+            "gnss.altitude": 547.815,
+            "gnss.latitude": -54.7182677,
+            "gnss.longitude": -67.9758847,
+            "gnss.speedD": 5.013,
+            "gnss.speedE": -3.785,
+            "gnss.speedN": -12.153,
+            "gnss.timestamp": 1725714368000
+        },
+        {
+            "gnss.altitude": 547.381,
+            "gnss.latitude": -54.7182793,
+            "gnss.longitude": -67.9758894,
+            "gnss.speedD": 4.951,
+            "gnss.speedE": -3.157,
+            "gnss.speedN": -12.613,
+            "gnss.timestamp": 1725714368100
+        },
+        {
+            "gnss.altitude": 546.968,
+            "gnss.latitude": -54.7182913,
+            "gnss.longitude": -67.9758932,
+            "gnss.speedD": 4.872,
+            "gnss.speedE": -2.554,
+            "gnss.speedN": -13.048,
+            "gnss.timestamp": 1725714368200
+        },
+        {
+            "gnss.altitude": 546.506,
+            "gnss.latitude": -54.7183036,
+            "gnss.longitude": -67.9758967,
+            "gnss.speedD": 4.851,
+            "gnss.speedE": -2.266,
+            "gnss.speedN": -13.441,
+            "gnss.timestamp": 1725714368300
+        },
+        {
+            "gnss.altitude": 546.01,
+            "gnss.latitude": -54.7183155,
+            "gnss.longitude": -67.9759002,
+            "gnss.speedD": 4.865,
+            "gnss.speedE": -2.222,
+            "gnss.speedN": -13.37,
+            "gnss.timestamp": 1725714368400
+        },
+        {
+            "gnss.altitude": 545.476,
+            "gnss.latitude": -54.7183277,
+            "gnss.longitude": -67.975904,
+            "gnss.speedD": 4.917,
+            "gnss.speedE": -2.425,
+            "gnss.speedN": -13.595,
+            "gnss.timestamp": 1725714368500
+        },
+        {
+            "gnss.altitude": 545.021,
+            "gnss.latitude": -54.71834,
+            "gnss.longitude": -67.975909,
+            "gnss.speedD": 4.882,
+            "gnss.speedE": -3.056,
+            "gnss.speedN": -13.536,
+            "gnss.timestamp": 1725714368600
+        },
+        {
+            "gnss.altitude": 544.747,
+            "gnss.latitude": -54.7183523,
+            "gnss.longitude": -67.9759161,
+            "gnss.speedD": 4.663,
+            "gnss.speedE": -4.18,
+            "gnss.speedN": -13.176,
+            "gnss.timestamp": 1725714368700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714368800,
+            "gnss.altitude": 544.467,
+            "gnss.latitude": -54.7183647,
+            "gnss.longitude": -67.9759243,
+            "gnss.speedD": 4.475,
+            "gnss.speedE": -5,
+            "gnss.speedN": -13.281,
+            "gnss.timestamp": 1725714368800
+        },
+        {
+            "gnss.altitude": 544.128,
+            "gnss.latitude": -54.7183769,
+            "gnss.longitude": -67.975932,
+            "gnss.speedD": 4.366,
+            "gnss.speedE": -4.909,
+            "gnss.speedN": -13.248,
+            "gnss.timestamp": 1725714368900
+        },
+        {
+            "gnss.altitude": 543.762,
+            "gnss.latitude": -54.7183894,
+            "gnss.longitude": -67.9759397,
+            "gnss.speedD": 4.298,
+            "gnss.speedE": -4.868,
+            "gnss.speedN": -13.643,
+            "gnss.timestamp": 1725714369000
+        },
+        {
+            "gnss.altitude": 543.37,
+            "gnss.latitude": -54.7184022,
+            "gnss.longitude": -67.9759474,
+            "gnss.speedD": 4.264,
+            "gnss.speedE": -4.912,
+            "gnss.speedN": -13.981,
+            "gnss.timestamp": 1725714369100
+        },
+        {
+            "gnss.altitude": 543.053,
+            "gnss.latitude": -54.7184149,
+            "gnss.longitude": -67.9759549,
+            "gnss.speedD": 4.151,
+            "gnss.speedE": -4.79,
+            "gnss.speedN": -13.928,
+            "gnss.timestamp": 1725714369200
+        },
+        {
+            "gnss.altitude": 542.726,
+            "gnss.latitude": -54.7184278,
+            "gnss.longitude": -67.9759623,
+            "gnss.speedD": 4.063,
+            "gnss.speedE": -4.718,
+            "gnss.speedN": -14.096,
+            "gnss.timestamp": 1725714369300
+        },
+        {
+            "gnss.altitude": 542.427,
+            "gnss.latitude": -54.7184406,
+            "gnss.longitude": -67.9759698,
+            "gnss.speedD": 3.953,
+            "gnss.speedE": -4.759,
+            "gnss.speedN": -14.01,
+            "gnss.timestamp": 1725714369400
+        },
+        {
+            "gnss.altitude": 542.024,
+            "gnss.latitude": -54.7184538,
+            "gnss.longitude": -67.9759769,
+            "gnss.speedD": 3.966,
+            "gnss.speedE": -4.557,
+            "gnss.speedN": -14.55,
+            "gnss.timestamp": 1725714369500
+        },
+        {
+            "gnss.altitude": 541.593,
+            "gnss.latitude": -54.718467,
+            "gnss.longitude": -67.9759838,
+            "gnss.speedD": 4.004,
+            "gnss.speedE": -4.479,
+            "gnss.speedN": -14.724,
+            "gnss.timestamp": 1725714369600
+        },
+        {
+            "gnss.altitude": 541.198,
+            "gnss.latitude": -54.7184797,
+            "gnss.longitude": -67.9759914,
+            "gnss.speedD": 3.997,
+            "gnss.speedE": -4.859,
+            "gnss.speedN": -14.265,
+            "gnss.timestamp": 1725714369700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714369800,
+            "gnss.altitude": 540.85,
+            "gnss.latitude": -54.7184928,
+            "gnss.longitude": -67.9760003,
+            "gnss.speedD": 3.946,
+            "gnss.speedE": -5.523,
+            "gnss.speedN": -14.351,
+            "gnss.timestamp": 1725714369800
+        },
+        {
+            "gnss.altitude": 540.574,
+            "gnss.latitude": -54.7185059,
+            "gnss.longitude": -67.9760085,
+            "gnss.speedD": 3.821,
+            "gnss.speedE": -5.256,
+            "gnss.speedN": -14.302,
+            "gnss.timestamp": 1725714369900
+        },
+        {
+            "gnss.altitude": 540.176,
+            "gnss.latitude": -54.7185185,
+            "gnss.longitude": -67.9760168,
+            "gnss.speedD": 3.839,
+            "gnss.speedE": -5.381,
+            "gnss.speedN": -14.151,
+            "gnss.timestamp": 1725714370000
+        },
+        {
+            "gnss.altitude": 539.704,
+            "gnss.latitude": -54.7185314,
+            "gnss.longitude": -67.9760249,
+            "gnss.speedD": 3.936,
+            "gnss.speedE": -5.22,
+            "gnss.speedN": -14.429,
+            "gnss.timestamp": 1725714370100
+        },
+        {
+            "gnss.altitude": 539.193,
+            "gnss.latitude": -54.7185443,
+            "gnss.longitude": -67.9760326,
+            "gnss.speedD": 4.064,
+            "gnss.speedE": -5.041,
+            "gnss.speedN": -14.645,
+            "gnss.timestamp": 1725714370200
+        },
+        {
+            "gnss.altitude": 538.617,
+            "gnss.latitude": -54.718557,
+            "gnss.longitude": -67.9760396,
+            "gnss.speedD": 4.244,
+            "gnss.speedE": -4.665,
+            "gnss.speedN": -14.596,
+            "gnss.timestamp": 1725714370300
+        },
+        {
+            "gnss.altitude": 538.231,
+            "gnss.latitude": -54.7185705,
+            "gnss.longitude": -67.9760441,
+            "gnss.speedD": 4.206,
+            "gnss.speedE": -3.198,
+            "gnss.speedN": -14.925,
+            "gnss.timestamp": 1725714370400
+        },
+        {
+            "gnss.altitude": 537.89,
+            "gnss.latitude": -54.7185838,
+            "gnss.longitude": -67.9760451,
+            "gnss.speedD": 4.12,
+            "gnss.speedE": -1.162,
+            "gnss.speedN": -14.866,
+            "gnss.timestamp": 1725714370500
+        },
+        {
+            "gnss.altitude": 537.552,
+            "gnss.latitude": -54.7185973,
+            "gnss.longitude": -67.9760448,
+            "gnss.speedD": 4.043,
+            "gnss.speedE": -0.017,
+            "gnss.speedN": -14.928,
+            "gnss.timestamp": 1725714370600
+        },
+        {
+            "gnss.altitude": 537.105,
+            "gnss.latitude": -54.7186109,
+            "gnss.longitude": -67.9760446,
+            "gnss.speedD": 4.092,
+            "gnss.speedE": 0.107,
+            "gnss.speedN": -15.128,
+            "gnss.timestamp": 1725714370700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714370800,
+            "gnss.altitude": 536.588,
+            "gnss.latitude": -54.7186241,
+            "gnss.longitude": -67.9760446,
+            "gnss.speedD": 4.207,
+            "gnss.speedE": -0.027,
+            "gnss.speedN": -15.036,
+            "gnss.timestamp": 1725714370800
+        },
+        {
+            "gnss.altitude": 535.982,
+            "gnss.latitude": -54.7186375,
+            "gnss.longitude": -67.9760446,
+            "gnss.speedD": 4.405,
+            "gnss.speedE": -0.06,
+            "gnss.speedN": -15.256,
+            "gnss.timestamp": 1725714370900
+        },
+        {
+            "gnss.altitude": 535.403,
+            "gnss.latitude": -54.7186505,
+            "gnss.longitude": -67.976045,
+            "gnss.speedD": 4.549,
+            "gnss.speedE": -0.293,
+            "gnss.speedN": -14.901,
+            "gnss.timestamp": 1725714371000
+        },
+        {
+            "gnss.altitude": 534.953,
+            "gnss.latitude": -54.7186638,
+            "gnss.longitude": -67.9760487,
+            "gnss.speedD": 4.546,
+            "gnss.speedE": -1.878,
+            "gnss.speedN": -14.792,
+            "gnss.timestamp": 1725714371100
+        },
+        {
+            "gnss.altitude": 534.603,
+            "gnss.latitude": -54.7186766,
+            "gnss.longitude": -67.9760554,
+            "gnss.speedD": 4.434,
+            "gnss.speedE": -3.775,
+            "gnss.speedN": -14.075,
+            "gnss.timestamp": 1725714371200
+        },
+        {
+            "gnss.altitude": 534.397,
+            "gnss.latitude": -54.7186889,
+            "gnss.longitude": -67.976064,
+            "gnss.speedD": 4.184,
+            "gnss.speedE": -5.059,
+            "gnss.speedN": -13.344,
+            "gnss.timestamp": 1725714371300
+        },
+        {
+            "gnss.altitude": 534.17,
+            "gnss.latitude": -54.7187011,
+            "gnss.longitude": -67.9760729,
+            "gnss.speedD": 3.985,
+            "gnss.speedE": -5.506,
+            "gnss.speedN": -13.146,
+            "gnss.timestamp": 1725714371400
+        },
+        {
+            "gnss.altitude": 533.846,
+            "gnss.latitude": -54.7187132,
+            "gnss.longitude": -67.976082,
+            "gnss.speedD": 3.909,
+            "gnss.speedE": -5.745,
+            "gnss.speedN": -13.258,
+            "gnss.timestamp": 1725714371500
+        },
+        {
+            "gnss.altitude": 533.414,
+            "gnss.latitude": -54.7187252,
+            "gnss.longitude": -67.9760909,
+            "gnss.speedD": 3.954,
+            "gnss.speedE": -5.741,
+            "gnss.speedN": -13.415,
+            "gnss.timestamp": 1725714371600
+        },
+        {
+            "gnss.altitude": 533.011,
+            "gnss.latitude": -54.7187374,
+            "gnss.longitude": -67.9760987,
+            "gnss.speedD": 3.962,
+            "gnss.speedE": -5.156,
+            "gnss.speedN": -13.582,
+            "gnss.timestamp": 1725714371700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714371800,
+            "gnss.altitude": 532.541,
+            "gnss.latitude": -54.7187494,
+            "gnss.longitude": -67.9761055,
+            "gnss.speedD": 4.038,
+            "gnss.speedE": -4.578,
+            "gnss.speedN": -13.616,
+            "gnss.timestamp": 1725714371800
+        },
+        {
+            "gnss.altitude": 532.162,
+            "gnss.latitude": -54.718762,
+            "gnss.longitude": -67.9761105,
+            "gnss.speedD": 4.014,
+            "gnss.speedE": -3.472,
+            "gnss.speedN": -13.96,
+            "gnss.timestamp": 1725714371900
+        },
+        {
+            "gnss.altitude": 531.839,
+            "gnss.latitude": -54.7187746,
+            "gnss.longitude": -67.9761119,
+            "gnss.speedD": 3.931,
+            "gnss.speedE": -1.404,
+            "gnss.speedN": -14.042,
+            "gnss.timestamp": 1725714372000
+        },
+        {
+            "gnss.altitude": 531.485,
+            "gnss.latitude": -54.7187874,
+            "gnss.longitude": -67.9761123,
+            "gnss.speedD": 3.892,
+            "gnss.speedE": -0.459,
+            "gnss.speedN": -14.204,
+            "gnss.timestamp": 1725714372100
+        },
+        {
+            "gnss.altitude": 531.017,
+            "gnss.latitude": -54.7188001,
+            "gnss.longitude": -67.9761125,
+            "gnss.speedD": 3.974,
+            "gnss.speedE": -0.226,
+            "gnss.speedN": -14.246,
+            "gnss.timestamp": 1725714372200
+        },
+        {
+            "gnss.altitude": 530.516,
+            "gnss.latitude": -54.7188125,
+            "gnss.longitude": -67.9761131,
+            "gnss.speedD": 4.081,
+            "gnss.speedE": -0.403,
+            "gnss.speedN": -14.129,
+            "gnss.timestamp": 1725714372300
+        },
+        {
+            "gnss.altitude": 529.904,
+            "gnss.latitude": -54.7188249,
+            "gnss.longitude": -67.9761134,
+            "gnss.speedD": 4.291,
+            "gnss.speedE": -0.295,
+            "gnss.speedN": -14.293,
+            "gnss.timestamp": 1725714372400
+        },
+        {
+            "gnss.altitude": 529.106,
+            "gnss.latitude": -54.7188375,
+            "gnss.longitude": -67.976114,
+            "gnss.speedD": 4.675,
+            "gnss.speedE": -0.477,
+            "gnss.speedN": -14.716,
+            "gnss.timestamp": 1725714372500
+        },
+        {
+            "gnss.altitude": 528.538,
+            "gnss.latitude": -54.7188499,
+            "gnss.longitude": -67.9761167,
+            "gnss.speedD": 4.776,
+            "gnss.speedE": -1.557,
+            "gnss.speedN": -14.14,
+            "gnss.timestamp": 1725714372600
+        },
+        {
+            "gnss.altitude": 528.266,
+            "gnss.latitude": -54.7188625,
+            "gnss.longitude": -67.976123,
+            "gnss.speedD": 4.562,
+            "gnss.speedE": -3.525,
+            "gnss.speedN": -13.559,
+            "gnss.timestamp": 1725714372700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714372800,
+            "gnss.altitude": 528.046,
+            "gnss.latitude": -54.7188745,
+            "gnss.longitude": -67.9761318,
+            "gnss.speedD": 4.313,
+            "gnss.speedE": -5.177,
+            "gnss.speedN": -12.923,
+            "gnss.timestamp": 1725714372800
+        },
+        {
+            "gnss.altitude": 527.777,
+            "gnss.latitude": -54.718886,
+            "gnss.longitude": -67.9761414,
+            "gnss.speedD": 4.142,
+            "gnss.speedE": -5.945,
+            "gnss.speedN": -12.5,
+            "gnss.timestamp": 1725714372900
+        },
+        {
+            "gnss.altitude": 527.438,
+            "gnss.latitude": -54.7188976,
+            "gnss.longitude": -67.9761513,
+            "gnss.speedD": 4.067,
+            "gnss.speedE": -6.218,
+            "gnss.speedN": -12.69,
+            "gnss.timestamp": 1725714373000
+        },
+        {
+            "gnss.altitude": 527.044,
+            "gnss.latitude": -54.7189094,
+            "gnss.longitude": -67.9761609,
+            "gnss.speedD": 4.057,
+            "gnss.speedE": -6.164,
+            "gnss.speedN": -12.93,
+            "gnss.timestamp": 1725714373100
+        },
+        {
+            "gnss.altitude": 526.598,
+            "gnss.latitude": -54.7189214,
+            "gnss.longitude": -67.97617,
+            "gnss.speedD": 4.104,
+            "gnss.speedE": -5.915,
+            "gnss.speedN": -13.348,
+            "gnss.timestamp": 1725714373200
+        },
+        {
+            "gnss.altitude": 526.23,
+            "gnss.latitude": -54.7189341,
+            "gnss.longitude": -67.9761784,
+            "gnss.speedD": 4.066,
+            "gnss.speedE": -5.494,
+            "gnss.speedN": -13.819,
+            "gnss.timestamp": 1725714373300
+        },
+        {
+            "gnss.altitude": 525.985,
+            "gnss.latitude": -54.718947,
+            "gnss.longitude": -67.976184,
+            "gnss.speedD": 3.899,
+            "gnss.speedE": -3.918,
+            "gnss.speedN": -14.059,
+            "gnss.timestamp": 1725714373400
+        },
+        {
+            "gnss.altitude": 525.787,
+            "gnss.latitude": -54.7189606,
+            "gnss.longitude": -67.9761874,
+            "gnss.speedD": 3.7,
+            "gnss.speedE": -2.445,
+            "gnss.speedN": -14.61,
+            "gnss.timestamp": 1725714373500
+        },
+        {
+            "gnss.altitude": 525.437,
+            "gnss.latitude": -54.7189738,
+            "gnss.longitude": -67.9761909,
+            "gnss.speedD": 3.679,
+            "gnss.speedE": -2.278,
+            "gnss.speedN": -14.645,
+            "gnss.timestamp": 1725714373600
+        },
+        {
+            "gnss.altitude": 525.113,
+            "gnss.latitude": -54.7189872,
+            "gnss.longitude": -67.9761946,
+            "gnss.speedD": 3.634,
+            "gnss.speedE": -2.367,
+            "gnss.speedN": -14.748,
+            "gnss.timestamp": 1725714373700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714373800,
+            "gnss.altitude": 524.824,
+            "gnss.latitude": -54.7190006,
+            "gnss.longitude": -67.9761994,
+            "gnss.speedD": 3.556,
+            "gnss.speedE": -2.917,
+            "gnss.speedN": -14.693,
+            "gnss.timestamp": 1725714373800
+        },
+        {
+            "gnss.altitude": 524.572,
+            "gnss.latitude": -54.7190137,
+            "gnss.longitude": -67.9762032,
+            "gnss.speedD": 3.442,
+            "gnss.speedE": -2.535,
+            "gnss.speedN": -14.543,
+            "gnss.timestamp": 1725714373900
+        },
+        {
+            "gnss.altitude": 524.294,
+            "gnss.latitude": -54.7190273,
+            "gnss.longitude": -67.9762079,
+            "gnss.speedD": 3.375,
+            "gnss.speedE": -2.864,
+            "gnss.speedN": -14.772,
+            "gnss.timestamp": 1725714374000
+        },
+        {
+            "gnss.altitude": 523.882,
+            "gnss.latitude": -54.7190405,
+            "gnss.longitude": -67.976212,
+            "gnss.speedD": 3.456,
+            "gnss.speedE": -2.692,
+            "gnss.speedN": -14.879,
+            "gnss.timestamp": 1725714374100
+        },
+        {
+            "gnss.altitude": 523.49,
+            "gnss.latitude": -54.7190543,
+            "gnss.longitude": -67.9762154,
+            "gnss.speedD": 3.51,
+            "gnss.speedE": -2.296,
+            "gnss.speedN": -15.342,
+            "gnss.timestamp": 1725714374200
+        },
+        {
+            "gnss.altitude": 523.137,
+            "gnss.latitude": -54.7190678,
+            "gnss.longitude": -67.9762182,
+            "gnss.speedD": 3.512,
+            "gnss.speedE": -1.873,
+            "gnss.speedN": -15.109,
+            "gnss.timestamp": 1725714374300
+        },
+        {
+            "gnss.altitude": 522.949,
+            "gnss.latitude": -54.7190815,
+            "gnss.longitude": -67.9762175,
+            "gnss.speedD": 3.335,
+            "gnss.speedE": 0.013,
+            "gnss.speedN": -15.136,
+            "gnss.timestamp": 1725714374400
+        },
+        {
+            "gnss.altitude": 522.753,
+            "gnss.latitude": -54.7190954,
+            "gnss.longitude": -67.9762159,
+            "gnss.speedD": 3.188,
+            "gnss.speedE": 0.862,
+            "gnss.speedN": -15.228,
+            "gnss.timestamp": 1725714374500
+        },
+        {
+            "gnss.altitude": 522.483,
+            "gnss.latitude": -54.719109,
+            "gnss.longitude": -67.9762144,
+            "gnss.speedD": 3.137,
+            "gnss.speedE": 0.978,
+            "gnss.speedN": -15.054,
+            "gnss.timestamp": 1725714374600
+        },
+        {
+            "gnss.altitude": 522.172,
+            "gnss.latitude": -54.7191224,
+            "gnss.longitude": -67.9762132,
+            "gnss.speedD": 3.138,
+            "gnss.speedE": 0.823,
+            "gnss.speedN": -14.992,
+            "gnss.timestamp": 1725714374700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714374800,
+            "gnss.altitude": 521.782,
+            "gnss.latitude": -54.7191358,
+            "gnss.longitude": -67.9762125,
+            "gnss.speedD": 3.224,
+            "gnss.speedE": 0.514,
+            "gnss.speedN": -15.034,
+            "gnss.timestamp": 1725714374800
+        },
+        {
+            "gnss.altitude": 521.345,
+            "gnss.latitude": -54.7191493,
+            "gnss.longitude": -67.9762123,
+            "gnss.speedD": 3.353,
+            "gnss.speedE": 0.207,
+            "gnss.speedN": -15.169,
+            "gnss.timestamp": 1725714374900
+        },
+        {
+            "gnss.altitude": 521.009,
+            "gnss.latitude": -54.7191623,
+            "gnss.longitude": -67.9762136,
+            "gnss.speedD": 3.354,
+            "gnss.speedE": -0.639,
+            "gnss.speedN": -14.64,
+            "gnss.timestamp": 1725714375000
+        },
+        {
+            "gnss.altitude": 520.718,
+            "gnss.latitude": -54.7191751,
+            "gnss.longitude": -67.9762173,
+            "gnss.speedD": 3.309,
+            "gnss.speedE": -1.896,
+            "gnss.speedN": -14.229,
+            "gnss.timestamp": 1725714375100
+        },
+        {
+            "gnss.altitude": 520.494,
+            "gnss.latitude": -54.7191873,
+            "gnss.longitude": -67.976224,
+            "gnss.speedD": 3.196,
+            "gnss.speedE": -3.6,
+            "gnss.speedN": -13.506,
+            "gnss.timestamp": 1725714375200
+        },
+        {
+            "gnss.altitude": 520.69,
+            "gnss.latitude": -54.7192,
+            "gnss.longitude": -67.9762337,
+            "gnss.speedD": 2.659,
+            "gnss.speedE": -5.23,
+            "gnss.speedN": -13.11,
+            "gnss.timestamp": 1725714375300
+        },
+        {
+            "gnss.altitude": 520.567,
+            "gnss.latitude": -54.719212,
+            "gnss.longitude": -67.9762429,
+            "gnss.speedD": 2.513,
+            "gnss.speedE": -5.704,
+            "gnss.speedN": -13.018,
+            "gnss.timestamp": 1725714375400
+        },
+        {
+            "gnss.altitude": 520.298,
+            "gnss.latitude": -54.7192238,
+            "gnss.longitude": -67.9762522,
+            "gnss.speedD": 2.538,
+            "gnss.speedE": -5.965,
+            "gnss.speedN": -13.098,
+            "gnss.timestamp": 1725714375500
+        },
+        {
+            "gnss.altitude": 519.849,
+            "gnss.latitude": -54.7192352,
+            "gnss.longitude": -67.9762612,
+            "gnss.speedD": 2.748,
+            "gnss.speedE": -5.932,
+            "gnss.speedN": -13.184,
+            "gnss.timestamp": 1725714375600
+        },
+        {
+            "gnss.altitude": 519.312,
+            "gnss.latitude": -54.719247,
+            "gnss.longitude": -67.9762701,
+            "gnss.speedD": 3.037,
+            "gnss.speedE": -5.901,
+            "gnss.speedN": -13.617,
+            "gnss.timestamp": 1725714375700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714375800,
+            "gnss.altitude": 518.925,
+            "gnss.latitude": -54.7192594,
+            "gnss.longitude": -67.9762774,
+            "gnss.speedD": 3.131,
+            "gnss.speedE": -4.871,
+            "gnss.speedN": -13.913,
+            "gnss.timestamp": 1725714375800
+        },
+        {
+            "gnss.altitude": 518.805,
+            "gnss.latitude": -54.7192723,
+            "gnss.longitude": -67.9762812,
+            "gnss.speedD": 2.911,
+            "gnss.speedE": -2.669,
+            "gnss.speedN": -14.045,
+            "gnss.timestamp": 1725714375900
+        },
+        {
+            "gnss.altitude": 518.618,
+            "gnss.latitude": -54.7192849,
+            "gnss.longitude": -67.9762819,
+            "gnss.speedD": 2.79,
+            "gnss.speedE": -0.689,
+            "gnss.speedN": -14.02,
+            "gnss.timestamp": 1725714376000
+        },
+        {
+            "gnss.altitude": 518.432,
+            "gnss.latitude": -54.7192979,
+            "gnss.longitude": -67.9762797,
+            "gnss.speedD": 2.681,
+            "gnss.speedE": 1.054,
+            "gnss.speedN": -14.248,
+            "gnss.timestamp": 1725714376100
+        },
+        {
+            "gnss.altitude": 518.259,
+            "gnss.latitude": -54.7193106,
+            "gnss.longitude": -67.9762774,
+            "gnss.speedD": 2.57,
+            "gnss.speedE": 1.421,
+            "gnss.speedN": -14.051,
+            "gnss.timestamp": 1725714376200
+        },
+        {
+            "gnss.altitude": 518.012,
+            "gnss.latitude": -54.7193233,
+            "gnss.longitude": -67.9762756,
+            "gnss.speedD": 2.562,
+            "gnss.speedE": 1.221,
+            "gnss.speedN": -14.163,
+            "gnss.timestamp": 1725714376300
+        },
+        {
+            "gnss.altitude": 517.734,
+            "gnss.latitude": -54.7193361,
+            "gnss.longitude": -67.9762742,
+            "gnss.speedD": 2.591,
+            "gnss.speedE": 0.95,
+            "gnss.speedN": -14.221,
+            "gnss.timestamp": 1725714376400
+        },
+        {
+            "gnss.altitude": 517.479,
+            "gnss.latitude": -54.7193488,
+            "gnss.longitude": -67.9762731,
+            "gnss.speedD": 2.589,
+            "gnss.speedE": 0.753,
+            "gnss.speedN": -14.118,
+            "gnss.timestamp": 1725714376500
+        },
+        {
+            "gnss.altitude": 517.27,
+            "gnss.latitude": -54.7193616,
+            "gnss.longitude": -67.9762737,
+            "gnss.speedD": 2.533,
+            "gnss.speedE": -0.148,
+            "gnss.speedN": -14.138,
+            "gnss.timestamp": 1725714376600
+        },
+        {
+            "gnss.altitude": 517.109,
+            "gnss.latitude": -54.7193745,
+            "gnss.longitude": -67.9762768,
+            "gnss.speedD": 2.428,
+            "gnss.speedE": -1.696,
+            "gnss.speedN": -14.096,
+            "gnss.timestamp": 1725714376700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714376800,
+            "gnss.altitude": 516.895,
+            "gnss.latitude": -54.7193874,
+            "gnss.longitude": -67.9762799,
+            "gnss.speedD": 2.396,
+            "gnss.speedE": -1.904,
+            "gnss.speedN": -14.189,
+            "gnss.timestamp": 1725714376800
+        },
+        {
+            "gnss.altitude": 516.559,
+            "gnss.latitude": -54.7194002,
+            "gnss.longitude": -67.9762825,
+            "gnss.speedD": 2.514,
+            "gnss.speedE": -1.736,
+            "gnss.speedN": -14.431,
+            "gnss.timestamp": 1725714376900
+        },
+        {
+            "gnss.altitude": 516.205,
+            "gnss.latitude": -54.7194127,
+            "gnss.longitude": -67.9762847,
+            "gnss.speedD": 2.638,
+            "gnss.speedE": -1.53,
+            "gnss.speedN": -14.227,
+            "gnss.timestamp": 1725714377000
+        },
+        {
+            "gnss.altitude": 515.845,
+            "gnss.latitude": -54.7194251,
+            "gnss.longitude": -67.9762861,
+            "gnss.speedD": 2.753,
+            "gnss.speedE": -1.069,
+            "gnss.speedN": -14.009,
+            "gnss.timestamp": 1725714377100
+        },
+        {
+            "gnss.altitude": 515.666,
+            "gnss.latitude": -54.7194376,
+            "gnss.longitude": -67.9762853,
+            "gnss.speedD": 2.632,
+            "gnss.speedE": 0.327,
+            "gnss.speedN": -13.907,
+            "gnss.timestamp": 1725714377200
+        },
+        {
+            "gnss.altitude": 515.461,
+            "gnss.latitude": -54.7194505,
+            "gnss.longitude": -67.9762835,
+            "gnss.speedD": 2.558,
+            "gnss.speedE": 1.073,
+            "gnss.speedN": -14.142,
+            "gnss.timestamp": 1725714377300
+        },
+        {
+            "gnss.altitude": 515.121,
+            "gnss.latitude": -54.7194629,
+            "gnss.longitude": -67.976282,
+            "gnss.speedD": 2.664,
+            "gnss.speedE": 0.929,
+            "gnss.speedN": -14.067,
+            "gnss.timestamp": 1725714377400
+        },
+        {
+            "gnss.altitude": 514.738,
+            "gnss.latitude": -54.7194754,
+            "gnss.longitude": -67.976281,
+            "gnss.speedD": 2.811,
+            "gnss.speedE": 0.633,
+            "gnss.speedN": -14.051,
+            "gnss.timestamp": 1725714377500
+        },
+        {
+            "gnss.altitude": 514.272,
+            "gnss.latitude": -54.7194876,
+            "gnss.longitude": -67.9762803,
+            "gnss.speedD": 3.041,
+            "gnss.speedE": 0.396,
+            "gnss.speedN": -13.931,
+            "gnss.timestamp": 1725714377600
+        },
+        {
+            "gnss.altitude": 513.828,
+            "gnss.latitude": -54.7194997,
+            "gnss.longitude": -67.9762813,
+            "gnss.speedD": 3.222,
+            "gnss.speedE": -0.621,
+            "gnss.speedN": -13.703,
+            "gnss.timestamp": 1725714377700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714377800,
+            "gnss.altitude": 513.538,
+            "gnss.latitude": -54.7195116,
+            "gnss.longitude": -67.9762857,
+            "gnss.speedD": 3.185,
+            "gnss.speedE": -2.479,
+            "gnss.speedN": -13.27,
+            "gnss.timestamp": 1725714377800
+        },
+        {
+            "gnss.altitude": 513.402,
+            "gnss.latitude": -54.7195227,
+            "gnss.longitude": -67.9762931,
+            "gnss.speedD": 2.944,
+            "gnss.speedE": -4.392,
+            "gnss.speedN": -12.2,
+            "gnss.timestamp": 1725714377900
+        },
+        {
+            "gnss.altitude": 513.219,
+            "gnss.latitude": -54.7195338,
+            "gnss.longitude": -67.9763019,
+            "gnss.speedD": 2.798,
+            "gnss.speedE": -5.441,
+            "gnss.speedN": -12.068,
+            "gnss.timestamp": 1725714378000
+        },
+        {
+            "gnss.altitude": 513.002,
+            "gnss.latitude": -54.7195451,
+            "gnss.longitude": -67.9763112,
+            "gnss.speedD": 2.716,
+            "gnss.speedE": -5.86,
+            "gnss.speedN": -12.373,
+            "gnss.timestamp": 1725714378100
+        },
+        {
+            "gnss.altitude": 512.617,
+            "gnss.latitude": -54.7195562,
+            "gnss.longitude": -67.9763204,
+            "gnss.speedD": 2.869,
+            "gnss.speedE": -5.963,
+            "gnss.speedN": -12.535,
+            "gnss.timestamp": 1725714378200
+        },
+        {
+            "gnss.altitude": 512.155,
+            "gnss.latitude": -54.7195673,
+            "gnss.longitude": -67.9763292,
+            "gnss.speedD": 3.106,
+            "gnss.speedE": -5.764,
+            "gnss.speedN": -12.698,
+            "gnss.timestamp": 1725714378300
+        },
+        {
+            "gnss.altitude": 511.67,
+            "gnss.latitude": -54.719579,
+            "gnss.longitude": -67.9763374,
+            "gnss.speedD": 3.347,
+            "gnss.speedE": -5.453,
+            "gnss.speedN": -13.238,
+            "gnss.timestamp": 1725714378400
+        },
+        {
+            "gnss.altitude": 511.329,
+            "gnss.latitude": -54.7195909,
+            "gnss.longitude": -67.9763444,
+            "gnss.speedD": 3.357,
+            "gnss.speedE": -4.591,
+            "gnss.speedN": -13.327,
+            "gnss.timestamp": 1725714378500
+        },
+        {
+            "gnss.altitude": 511.124,
+            "gnss.latitude": -54.7196032,
+            "gnss.longitude": -67.9763484,
+            "gnss.speedD": 3.17,
+            "gnss.speedE": -2.735,
+            "gnss.speedN": -13.533,
+            "gnss.timestamp": 1725714378600
+        },
+        {
+            "gnss.altitude": 510.86,
+            "gnss.latitude": -54.7196159,
+            "gnss.longitude": -67.9763506,
+            "gnss.speedD": 3.099,
+            "gnss.speedE": -1.531,
+            "gnss.speedN": -13.994,
+            "gnss.timestamp": 1725714378700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714378800,
+            "gnss.altitude": 510.525,
+            "gnss.latitude": -54.7196286,
+            "gnss.longitude": -67.9763526,
+            "gnss.speedD": 3.138,
+            "gnss.speedE": -1.359,
+            "gnss.speedN": -14.152,
+            "gnss.timestamp": 1725714378800
+        },
+        {
+            "gnss.altitude": 510.155,
+            "gnss.latitude": -54.7196409,
+            "gnss.longitude": -67.976355,
+            "gnss.speedD": 3.219,
+            "gnss.speedE": -1.536,
+            "gnss.speedN": -13.89,
+            "gnss.timestamp": 1725714378900
+        },
+        {
+            "gnss.altitude": 509.883,
+            "gnss.latitude": -54.7196533,
+            "gnss.longitude": -67.9763591,
+            "gnss.speedD": 3.146,
+            "gnss.speedE": -2.444,
+            "gnss.speedN": -13.711,
+            "gnss.timestamp": 1725714379000
+        },
+        {
+            "gnss.altitude": 509.63,
+            "gnss.latitude": -54.719666,
+            "gnss.longitude": -67.9763644,
+            "gnss.speedD": 3.061,
+            "gnss.speedE": -3.209,
+            "gnss.speedN": -13.839,
+            "gnss.timestamp": 1725714379100
+        },
+        {
+            "gnss.altitude": 509.404,
+            "gnss.latitude": -54.7196785,
+            "gnss.longitude": -67.9763702,
+            "gnss.speedD": 2.949,
+            "gnss.speedE": -3.663,
+            "gnss.speedN": -13.795,
+            "gnss.timestamp": 1725714379200
+        },
+        {
+            "gnss.altitude": 509.104,
+            "gnss.latitude": -54.7196914,
+            "gnss.longitude": -67.9763766,
+            "gnss.speedD": 2.96,
+            "gnss.speedE": -4,
+            "gnss.speedN": -14.219,
+            "gnss.timestamp": 1725714379300
+        },
+        {
+            "gnss.altitude": 508.698,
+            "gnss.latitude": -54.719704,
+            "gnss.longitude": -67.9763825,
+            "gnss.speedD": 3.12,
+            "gnss.speedE": -3.836,
+            "gnss.speedN": -14.323,
+            "gnss.timestamp": 1725714379400
+        },
+        {
+            "gnss.altitude": 508.215,
+            "gnss.latitude": -54.7197165,
+            "gnss.longitude": -67.9763883,
+            "gnss.speedD": 3.361,
+            "gnss.speedE": -3.79,
+            "gnss.speedN": -14.25,
+            "gnss.timestamp": 1725714379500
+        },
+        {
+            "gnss.altitude": 507.686,
+            "gnss.latitude": -54.7197289,
+            "gnss.longitude": -67.976393,
+            "gnss.speedD": 3.633,
+            "gnss.speedE": -3.108,
+            "gnss.speedN": -14.242,
+            "gnss.timestamp": 1725714379600
+        },
+        {
+            "gnss.altitude": 507.325,
+            "gnss.latitude": -54.719742,
+            "gnss.longitude": -67.9763953,
+            "gnss.speedD": 3.63,
+            "gnss.speedE": -1.701,
+            "gnss.speedN": -14.591,
+            "gnss.timestamp": 1725714379700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714379800,
+            "gnss.altitude": 507.073,
+            "gnss.latitude": -54.7197553,
+            "gnss.longitude": -67.9763943,
+            "gnss.speedD": 3.473,
+            "gnss.speedE": 0.308,
+            "gnss.speedN": -14.666,
+            "gnss.timestamp": 1725714379800
+        },
+        {
+            "gnss.altitude": 506.829,
+            "gnss.latitude": -54.7197687,
+            "gnss.longitude": -67.9763922,
+            "gnss.speedD": 3.328,
+            "gnss.speedE": 1.248,
+            "gnss.speedN": -14.813,
+            "gnss.timestamp": 1725714379900
+        },
+        {
+            "gnss.altitude": 506.48,
+            "gnss.latitude": -54.7197823,
+            "gnss.longitude": -67.9763897,
+            "gnss.speedD": 3.352,
+            "gnss.speedE": 1.531,
+            "gnss.speedN": -15.058,
+            "gnss.timestamp": 1725714380000
+        },
+        {
+            "gnss.altitude": 506.106,
+            "gnss.latitude": -54.7197957,
+            "gnss.longitude": -67.9763875,
+            "gnss.speedD": 3.405,
+            "gnss.speedE": 1.42,
+            "gnss.speedN": -15.024,
+            "gnss.timestamp": 1725714380100
+        },
+        {
+            "gnss.altitude": 505.638,
+            "gnss.latitude": -54.7198087,
+            "gnss.longitude": -67.9763855,
+            "gnss.speedD": 3.584,
+            "gnss.speedE": 1.277,
+            "gnss.speedN": -14.779,
+            "gnss.timestamp": 1725714380200
+        },
+        {
+            "gnss.altitude": 505.139,
+            "gnss.latitude": -54.7198218,
+            "gnss.longitude": -67.9763843,
+            "gnss.speedD": 3.782,
+            "gnss.speedE": 0.805,
+            "gnss.speedN": -14.806,
+            "gnss.timestamp": 1725714380300
+        },
+        {
+            "gnss.altitude": 504.785,
+            "gnss.latitude": -54.7198355,
+            "gnss.longitude": -67.9763853,
+            "gnss.speedD": 3.753,
+            "gnss.speedE": -0.425,
+            "gnss.speedN": -15.049,
+            "gnss.timestamp": 1725714380400
+        },
+        {
+            "gnss.altitude": 504.647,
+            "gnss.latitude": -54.7198494,
+            "gnss.longitude": -67.9763905,
+            "gnss.speedD": 3.426,
+            "gnss.speedE": -2.799,
+            "gnss.speedN": -15.035,
+            "gnss.timestamp": 1725714380500
+        },
+        {
+            "gnss.altitude": 504.412,
+            "gnss.latitude": -54.719863,
+            "gnss.longitude": -67.9763957,
+            "gnss.speedD": 3.277,
+            "gnss.speedE": -3.243,
+            "gnss.speedN": -14.892,
+            "gnss.timestamp": 1725714380600
+        },
+        {
+            "gnss.altitude": 504.121,
+            "gnss.latitude": -54.7198761,
+            "gnss.longitude": -67.9764005,
+            "gnss.speedD": 3.228,
+            "gnss.speedE": -3.106,
+            "gnss.speedN": -14.637,
+            "gnss.timestamp": 1725714380700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714380800,
+            "gnss.altitude": 503.745,
+            "gnss.latitude": -54.7198892,
+            "gnss.longitude": -67.9764051,
+            "gnss.speedD": 3.305,
+            "gnss.speedE": -3,
+            "gnss.speedN": -14.682,
+            "gnss.timestamp": 1725714380800
+        },
+        {
+            "gnss.altitude": 503.341,
+            "gnss.latitude": -54.7199023,
+            "gnss.longitude": -67.9764093,
+            "gnss.speedD": 3.409,
+            "gnss.speedE": -2.767,
+            "gnss.speedN": -14.719,
+            "gnss.timestamp": 1725714380900
+        },
+        {
+            "gnss.altitude": 502.975,
+            "gnss.latitude": -54.719916,
+            "gnss.longitude": -67.9764119,
+            "gnss.speedD": 3.447,
+            "gnss.speedE": -1.817,
+            "gnss.speedN": -15.244,
+            "gnss.timestamp": 1725714381000
+        },
+        {
+            "gnss.altitude": 502.703,
+            "gnss.latitude": -54.7199298,
+            "gnss.longitude": -67.9764115,
+            "gnss.speedD": 3.345,
+            "gnss.speedE": -0.01,
+            "gnss.speedN": -15.334,
+            "gnss.timestamp": 1725714381100
+        },
+        {
+            "gnss.altitude": 502.43,
+            "gnss.latitude": -54.719944,
+            "gnss.longitude": -67.9764099,
+            "gnss.speedD": 3.258,
+            "gnss.speedE": 0.929,
+            "gnss.speedN": -15.711,
+            "gnss.timestamp": 1725714381200
+        },
+        {
+            "gnss.altitude": 502.14,
+            "gnss.latitude": -54.7199582,
+            "gnss.longitude": -67.9764078,
+            "gnss.speedD": 3.207,
+            "gnss.speedE": 1.311,
+            "gnss.speedN": -15.729,
+            "gnss.timestamp": 1725714381300
+        },
+        {
+            "gnss.altitude": 501.781,
+            "gnss.latitude": -54.7199722,
+            "gnss.longitude": -67.9764058,
+            "gnss.speedD": 3.26,
+            "gnss.speedE": 1.274,
+            "gnss.speedN": -15.632,
+            "gnss.timestamp": 1725714381400
+        },
+        {
+            "gnss.altitude": 501.424,
+            "gnss.latitude": -54.719986,
+            "gnss.longitude": -67.9764041,
+            "gnss.speedD": 3.304,
+            "gnss.speedE": 1.089,
+            "gnss.speedN": -15.45,
+            "gnss.timestamp": 1725714381500
+        },
+        {
+            "gnss.altitude": 501.14,
+            "gnss.latitude": -54.7200001,
+            "gnss.longitude": -67.9764031,
+            "gnss.speedD": 3.24,
+            "gnss.speedE": 0.757,
+            "gnss.speedN": -15.615,
+            "gnss.timestamp": 1725714381600
+        },
+        {
+            "gnss.altitude": 500.862,
+            "gnss.latitude": -54.7200145,
+            "gnss.longitude": -67.9764032,
+            "gnss.speedD": 3.18,
+            "gnss.speedE": 0.09,
+            "gnss.speedN": -15.869,
+            "gnss.timestamp": 1725714381700
+        },
+        {
+            "ecg.hr": 0,
+            "ecg.timestamp": 1725714381800,
+            "gnss.altitude": 500.657,
+            "gnss.latitude": -54.7200291,
+            "gnss.longitude": -67.9764043,
+            "gnss.speedD": 3.022,
+            "gnss.speedE": -0.569,
+            "gnss.speedN": -16.113,
+            "gnss.timestamp": 1725714381800
+        },
+        {
+            "gnss.altitude": 500.429,
+            "gnss.latitude": -54.7200438,
+            "gnss.longitude": -67.9764056,
+            "gnss.speedD": 2.919,
+            "gnss.speedE": -0.785,
+            "gnss.speedN": -16.213,
+            "gnss.timestamp": 1725714381900
+        },
+        {
+            "gnss.altitude": 500.121,
+            "gnss.latitude": -54.7200581,
+            "gnss.longitude": -67.9764064,
+            "gnss.speedD": 2.943,
+            "gnss.speedE": -0.526,
+            "gnss.speedN": -15.949,
+            "gnss.timestamp": 1725714382000
+        }
+    ]
+}
